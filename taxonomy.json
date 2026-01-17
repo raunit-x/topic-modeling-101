@@ -1,0 +1,16 @@
+{
+  "topics": {},
+  "term_to_topic": {},
+  "root_topics": [],
+  "created_at": "2026-01-17T18:20:20.357731",
+  "source_stats": {
+    "total_documents": 1642,
+    "total_tokens": 21091,
+    "unique_unigrams": 2489,
+    "unique_bigrams": 10278,
+    "unique_trigrams": 14359,
+    "terms_extracted": 4528,
+    "valid_entities": 6,
+    "topics_created": 0
+  }
+}
