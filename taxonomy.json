@@ -1,16 +1,4007 @@
 {
-  "topics": {},
-  "term_to_topic": {},
-  "root_topics": [],
-  "created_at": "2026-01-17T18:20:20.357731",
+  "topics": {
+    "topic_6a8942cc": {
+      "id": "topic_6a8942cc",
+      "canonical_name": "Financial Conference Call Transcripts",
+      "description": "Topic containing: transcript, the transcript",
+      "terms": [
+        "transcript",
+        "the transcript"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "please find enclosed the transcript of the investors\u2019 conference call for the quarter and nine months period",
+        "the transcript of the earnings conference call can be accessed on the company\u2019s website at:",
+        "please find enclosed the transcript of the investors\u2019 conference call for the quarter and nine months period"
+      ]
+    },
+    "topic_34a3f09c": {
+      "id": "topic_34a3f09c",
+      "canonical_name": "Cloud Computing",
+      "description": "Topic containing: in the cloud, the cloud, cloud",
+      "terms": [
+        "in the cloud",
+        "the cloud",
+        "cloud"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "compute we are able to run in the cloud and then all you need is a keyboard and a mouse",
+        "that is in the cloud.",
+        "compute we are able to run in the cloud and then all you need is a keyboard and a mouse"
+      ]
+    },
+    "topic_d763b27c": {
+      "id": "topic_d763b27c",
+      "canonical_name": "Sriram Company Secretary Services",
+      "description": "Topic containing: sriram, sriram company secretary",
+      "terms": [
+        "sriram",
+        "sriram company secretary"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "cauveri sriram",
+        "ms. cauveri sriram \u2013 company secretary \u2013"
+      ]
+    },
+    "topic_dca422d6": {
+      "id": "topic_dca422d6",
+      "canonical_name": "Cauveri Sriram and Associates",
+      "description": "Topic containing: cauveri, ms cauveri, cauveri sriram, ms cauveri sriram",
+      "terms": [
+        "cauveri",
+        "ms cauveri",
+        "cauveri sriram",
+        "ms cauveri sriram"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "cauveri sriram",
+        "ms. cauveri sriram \u2013 company secretary \u2013",
+        "cauveri sriram"
+      ]
+    },
+    "topic_c014c4e9": {
+      "id": "topic_c014c4e9",
+      "canonical_name": "Audio-Video Recording",
+      "description": "Topic containing: video, video recording, recording, audio video recording, audio video",
+      "terms": [
+        "video",
+        "video recording",
+        "recording",
+        "audio video recording",
+        "audio video"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "sub: audio / video recording and transcript of the presentation made to the analysts",
+        "the audio / video recording and transcript of the presentation are available on the website of",
+        "sub: audio / video recording and transcript of the presentation made to the analysts"
+      ]
+    },
+    "topic_85a9c17a": {
+      "id": "topic_85a9c17a",
+      "canonical_name": "Automotive Market and Industry",
+      "description": "Topic containing: automotive market, the automotive market, the automotive, in the automotive, automotive",
+      "terms": [
+        "automotive market",
+        "the automotive market",
+        "the automotive",
+        "in the automotive",
+        "automotive",
+        "automotive industry",
+        "the automotive industry",
+        "automotive segment",
+        "the automotive segment",
+        "auto",
+        "autos",
+        "the auto",
+        "automobile",
+        "vehicles",
+        "vehicle",
+        "automobiles",
+        "the automobile",
+        "in the auto",
+        "cars",
+        "car"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "automotive market.",
+        "manoj raghavan: yes. if i break the automotive market into 2 parts: europe, in general, we see automotive",
+        "manoj raghavan: yes. if i break the automotive market into 2 parts: europe, in general, we see automotive"
+      ]
+    },
+    "topic_bb71e4c7": {
+      "id": "topic_bb71e4c7",
+      "canonical_name": "Retail Store Operations",
+      "description": "Topic containing: store, stores",
+      "terms": [
+        "store",
+        "stores"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "all of the features that one would expect to store, to share, to sync, secure. you can stream",
+        "at about 18%. we opened 779 new stores during the quarter. the total store count stands at",
+        "footprint expansion, 779 stores, overall that we saw."
+      ]
+    },
+    "topic_6c757466": {
+      "id": "topic_6c757466",
+      "canonical_name": "Dinesh Taluja and Reliance Retail",
+      "description": "Topic containing: dinesh, dinesh taluja, sh dinesh taluja, taluja reliance, taluja reliance retail",
+      "terms": [
+        "dinesh",
+        "dinesh taluja",
+        "sh dinesh taluja",
+        "taluja reliance",
+        "taluja reliance retail",
+        "reliance retail",
+        "dinesh taluja reliance"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh dinesh taluja, cfo & corporate development, reliance retail",
+        "\u2022 sh dinesh taluja 00:26:53 \u2013 00:41:15 (reliance retail)",
+        "\u2022 sh dinesh taluja, cfo & corporate development, reliance retail"
+      ]
+    },
+    "topic_ab4b675f": {
+      "id": "topic_ab4b675f",
+      "canonical_name": "Western Civilization and Culture",
+      "description": "Topic containing: western, the western, western world, the western world",
+      "terms": [
+        "western",
+        "the western",
+        "western world",
+        "the western world"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "you're logging in from the western side. before we proceed to the call, let me remind you that",
+        "manoj raghavan: that is true. that is the industry trend that we are seeing, especially in the western world, the",
+        "you're logging in from the western side. before we proceed to the call, let me remind you that"
+      ]
+    },
+    "topic_0fa7edbd": {
+      "id": "topic_0fa7edbd",
+      "canonical_name": "Financial Margins Analysis",
+      "description": "Topic containing: margin, margins, margin levels",
+      "terms": [
+        "margin",
+        "margins",
+        "margin levels"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "margins stood at 26.3% and pbt margin was reported at 26.1%. this was the first quarter in",
+        "second question is to gaurav - if you can just give the margin walk for the quarter? and how",
+        "margins stood at 26.3% and pbt margin was reported at 26.1%. this was the first quarter in"
+      ]
+    },
+    "topic_f87953b5": {
+      "id": "topic_f87953b5",
+      "canonical_name": "Telecommunication Calls",
+      "description": "Topic containing: call, the call, conference call",
+      "terms": [
+        "call",
+        "the call",
+        "conference call"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "sub.: transcripts of the investors\u2019 conference call for the quarter and nine months period ended",
+        "please find enclosed the transcript of the investors\u2019 conference call for the quarter and nine months period",
+        "you're logging in from the western side. before we proceed to the call, let me remind you that"
+      ]
+    },
+    "topic_84ad0295": {
+      "id": "topic_84ad0295",
+      "canonical_name": "EBITDA Metrics and Analysis",
+      "description": "Topic containing: ebitda, the ebitda, ebitda growth, ebitda came in, and ebitda",
+      "terms": [
+        "ebitda",
+        "the ebitda",
+        "ebitda growth",
+        "ebitda came in",
+        "and ebitda",
+        "segment ebitda",
+        "quarter ebitda",
+        "ebitda margin at",
+        "ebitda margins",
+        "ebitda margin",
+        "ebitda came"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our revenues from operations were reported at inr939.2 crores. during the quarter, ebitda",
+        "revenue growth, ebitda growth at close to 8%, and pat (profit after tax) growth close to",
+        "ebitda growing a little bit faster coming to 15,798 crores. the ebitda margin at 53.9%."
+      ]
+    },
+    "topic_96deed72": {
+      "id": "topic_96deed72",
+      "canonical_name": "Growth Dynamics",
+      "description": "Topic containing: in growth, growth in, show growth, this growth, increase in",
+      "terms": [
+        "in growth",
+        "growth in",
+        "show growth",
+        "this growth",
+        "increase in"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderation in growth?",
+        "verticals, we are really looking at adjacencies and how we can bring in growth. in the medium",
+        "the stability and return to growth in the healthcare and media and communication verticals"
+      ]
+    },
+    "topic_9d8f4d43": {
+      "id": "topic_9d8f4d43",
+      "canonical_name": "Basis Points in Financial Analysis",
+      "description": "Topic containing: basis points to, basis points, basis point",
+      "terms": [
+        "basis points to",
+        "basis points",
+        "basis point"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "basis points to 87.4%. the key drivers, we saw an uptick in cbm production based on",
+        "160 basis points to 9.6%.",
+        "wage hike impact was almost 100 basis points, but that was also compensated and mitigated"
+      ]
+    },
+    "topic_8c0bf6b1": {
+      "id": "topic_8c0bf6b1",
+      "canonical_name": "Indian Market Dynamics",
+      "description": "Topic containing: indian, the indian, the indian market, indian market",
+      "terms": [
+        "indian",
+        "the indian",
+        "the indian market",
+        "indian market"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "course, in the indian market we definitely see pricing will be an issue. but we're managing it",
+        "to indian customers.",
+        "course, in the indian market we definitely see pricing will be an issue. but we're managing it"
+      ]
+    },
+    "topic_e68092c8": {
+      "id": "topic_e68092c8",
+      "canonical_name": "Business Entities and Enterprises",
+      "description": "Topic containing: business, the business, businesses, this business, enterprises",
+      "terms": [
+        "business",
+        "the business",
+        "businesses",
+        "this business",
+        "enterprises",
+        "enterprise",
+        "companies",
+        "our businesses",
+        "a company"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our strategic business focus on japan, emerging markets and capitalizing on the india",
+        "our businesses. the automotive industry has seen significant business challenges in the past",
+        "over this quarter and beyond, we continue to work on pivoting the business away from project-"
+      ]
+    },
+    "topic_628996ca": {
+      "id": "topic_628996ca",
+      "canonical_name": "Market Dynamics",
+      "description": "Topic containing: market, markets, the market, major markets",
+      "terms": [
+        "market",
+        "markets",
+        "the market",
+        "major markets"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "digital engineering and sustainability offerings are seeing significant traction in the market.",
+        "automotive market.",
+        "our strategic business focus on japan, emerging markets and capitalizing on the india"
+      ]
+    },
+    "topic_a1068786": {
+      "id": "topic_a1068786",
+      "canonical_name": "Ritesh Poladia and Girik Capital",
+      "description": "Topic containing: ritesh, ritesh poladia",
+      "terms": [
+        "ritesh",
+        "ritesh poladia"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of ritesh poladia with girik capital. please go",
+        "ritesh poladia: thanks for the opportunity. my question is on the automotive segment. sir, with china ev",
+        "moderator: thank you. next question comes from the line of ritesh poladia with girik capital. please go"
+      ]
+    },
+    "topic_1a4fd29d": {
+      "id": "topic_1a4fd29d",
+      "canonical_name": "B. Srinivasan and Related Figures",
+      "description": "Topic containing: srinivasan, b srinivasan, sh b srinivasan",
+      "terms": [
+        "srinivasan",
+        "b srinivasan",
+        "sh b srinivasan"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh b srinivasan, president, reliance industries limited",
+        "\u2022 sh b. srinivasan 00:00:03 \u2013 00:00:41 (introduction)",
+        "\u2022 sh b srinivasan, president, reliance industries limited"
+      ]
+    },
+    "topic_c4fec5f8": {
+      "id": "topic_c4fec5f8",
+      "canonical_name": "Quarterly Financial Reporting",
+      "description": "Topic containing: quarter, the quarter, the last quarter, last quarter, in q4",
+      "terms": [
+        "quarter",
+        "the quarter",
+        "the last quarter",
+        "last quarter",
+        "in q4"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "sub.: transcripts of the investors\u2019 conference call for the quarter and nine months period ended",
+        "please find enclosed the transcript of the investors\u2019 conference call for the quarter and nine months period",
+        "sub.: transcripts of the investors\u2019 conference call for the quarter and nine months period ended"
+      ]
+    },
+    "topic_92e1cf58": {
+      "id": "topic_92e1cf58",
+      "canonical_name": "Vimal Gohil and Related Entities",
+      "description": "Topic containing: vimal gohil, vimal jamnadas gohil, vimal, vimal jamnadas, jamnadas gohil",
+      "terms": [
+        "vimal gohil",
+        "vimal jamnadas gohil",
+        "vimal",
+        "vimal jamnadas",
+        "jamnadas gohil"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "vimal gohil: yes, thank you for the opportunity. sir, if you could help me with what was the mix of oems",
+        "vimal gohil: yes.",
+        "moderator: thank you. next question comes from the line of vimal jamnadas gohil with alchemy"
+      ]
+    },
+    "topic_955d9d98": {
+      "id": "topic_955d9d98",
+      "canonical_name": "Short-Term Economic Outlook",
+      "description": "Topic containing: the near term, near term, near term outlook, the short term, short term",
+      "terms": [
+        "the near term",
+        "near term",
+        "near term outlook",
+        "the short term",
+        "short term"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "some of the near term typically what we've seen in a soft auto market in eu or the u.s. is that",
+        "will also happen with time, and it\u2019s slow in the near term because of the lack of growth or",
+        "some of the near term typically what we've seen in a soft auto market in eu or the u.s. is that"
+      ]
+    },
+    "topic_96e634f7": {
+      "id": "topic_96e634f7",
+      "canonical_name": "Reliance Industries and Related Terms",
+      "description": "Topic containing: for reliance, reliance, reliance industries, reliance industries limited",
+      "terms": [
+        "for reliance",
+        "reliance",
+        "reliance industries",
+        "reliance industries limited"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "for reliance industries limited",
+        "financial results for reliance retail.",
+        "scrip code: 500325 trading symbol: reliance"
+      ]
+    },
+    "topic_170d8d3b": {
+      "id": "topic_170d8d3b",
+      "canonical_name": "Original Equipment Manufacturers (OEMs) and Chinese Companies",
+      "description": "Topic containing: oems, oem, the oems, the oem, the chinese companies",
+      "terms": [
+        "oems",
+        "oem",
+        "the oems",
+        "the oem",
+        "the chinese companies",
+        "chinese companies",
+        "the chinese oems",
+        "chinese oems",
+        "the chinese",
+        "chinese",
+        "chinese oems and",
+        "from oems",
+        "revenues from oems",
+        "the western oems",
+        "western oems",
+        "chinese car companies"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "few months with oems, especially in the u.s. and europe reporting sales and growth",
+        "vimal gohil: yes, thank you for the opportunity. sir, if you could help me with what was the mix of oems",
+        "deep digital and software expertise and scale talent base to help global oem shift left and"
+      ]
+    },
+    "topic_31b99c9b": {
+      "id": "topic_31b99c9b",
+      "canonical_name": "Tata Elxsi Corporation",
+      "description": "Topic containing: for tata elxsi, tata elxsi, tata elxsi is, tata elxsi limited, elxsi limited",
+      "terms": [
+        "for tata elxsi",
+        "tata elxsi",
+        "tata elxsi is",
+        "tata elxsi limited",
+        "elxsi limited",
+        "elxsi",
+        "of tata elxsi",
+        "tataelxsi",
+        "tata",
+        "of tata"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "for tata elxsi limited",
+        "outlook for tata elxsi?",
+        "for tata elxsi limited"
+      ]
+    },
+    "topic_0f84ed1e": {
+      "id": "topic_0f84ed1e",
+      "canonical_name": "Resource Availability and Supply Management",
+      "description": "Topic containing: availability, supply",
+      "terms": [
+        "availability",
+        "supply"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the pie chart on the left, what is heartening is that the availability of airfiber has really opened",
+        "were low gasifier availability.",
+        "design capabilities, improving the supply chain, the design to shelves, shortening the design"
+      ]
+    },
+    "topic_ff1f8a7e": {
+      "id": "topic_ff1f8a7e",
+      "canonical_name": "United States Market Dynamics",
+      "description": "Topic containing: u s market, u s, market for us, u s geography, the us",
+      "terms": [
+        "u s market",
+        "u s",
+        "market for us",
+        "u s geography",
+        "the us"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "but specifically, do you see a situation of u.s. and europe pivoting away from ev by cutting",
+        "communication and the healthcare, has a significant preference in that particular market for us.",
+        "i'm a little more confident that there will be some recovery in the u.s. market for us."
+      ]
+    },
+    "topic_de9ab729": {
+      "id": "topic_de9ab729",
+      "canonical_name": "Customer Management and Engagement",
+      "description": "Topic containing: customers, customer, those customers, customer base, customer mix",
+      "terms": [
+        "customers",
+        "customer",
+        "those customers",
+        "customer base",
+        "customer mix",
+        "improving customer mix"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "year and demonstrated differentiated value to customers to protect and grow our revenues in a",
+        "positioned well to help customers in the media, entertainment and telecom industry on all 3",
+        "our customer satisfaction is almost at the rate of 4.75 out of 5. so, we are tracking all of those"
+      ]
+    },
+    "topic_33ca0d3e": {
+      "id": "topic_33ca0d3e",
+      "canonical_name": "Individual Investors and Investor Relations",
+      "description": "Topic containing: investor, investors, individual investor, an individual investor, investors conference call",
+      "terms": [
+        "investor",
+        "investors",
+        "individual investor",
+        "an individual investor",
+        "investors conference call"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of nitesh, an individual investor.",
+        "moderator: thank you. next question comes from the line of abhishek agarwal an individual investor.",
+        "sub.: transcripts of the investors\u2019 conference call for the quarter and nine months period ended"
+      ]
+    },
+    "topic_83a4f12a": {
+      "id": "topic_83a4f12a",
+      "canonical_name": "Earnings Conference Calls",
+      "description": "Topic containing: earnings conference, earnings conference call",
+      "terms": [
+        "earnings conference",
+        "earnings conference call"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the transcript of the earnings conference call can be accessed on the company\u2019s website at:",
+        "q3 fy '24-'25 earnings conference call\u201d",
+        "the transcript of the earnings conference call can be accessed on the company\u2019s website at:"
+      ]
+    },
+    "topic_20a79665": {
+      "id": "topic_20a79665",
+      "canonical_name": "Quarterly Financial Reporting",
+      "description": "Topic containing: q3 fy, q3 fy earnings, coming quarter, next quarter, coming quarters",
+      "terms": [
+        "q3 fy",
+        "q3 fy earnings",
+        "coming quarter",
+        "next quarter",
+        "coming quarters",
+        "the next quarter",
+        "the coming quarters",
+        "subsequent quarters",
+        "the subsequent quarters"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "q3 fy '24-'25 earnings conference call\u201d",
+        "moderator: ladies and gentlemen, good day, and welcome to tata elxsi limited q3 fy '24-'25 earnings",
+        "coming quarter and also for the next financial year considering the various challenges what we"
+      ]
+    },
+    "topic_4992e417": {
+      "id": "topic_4992e417",
+      "canonical_name": "Consolidated Financial Statements",
+      "description": "Topic containing: srikanth consolidated financials, consolidated financials",
+      "terms": [
+        "srikanth consolidated financials",
+        "consolidated financials"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh v. srikanth 00:00:41 \u2013 00:07:17 (consolidated financials)",
+        "sh v. srikanth 00:00:41 \u2013 00:07:17 (consolidated financials)"
+      ]
+    },
+    "topic_6a74e636": {
+      "id": "topic_6a74e636",
+      "canonical_name": "Revenue Reporting and Analysis",
+      "description": "Topic containing: revenues, revenue, revenues from, our revenues, our revenues from",
+      "terms": [
+        "revenues",
+        "revenue",
+        "revenues from",
+        "our revenues",
+        "our revenues from",
+        "operating revenues"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our revenues from operations were reported at inr939.2 crores. during the quarter, ebitda",
+        "opportunity. during the quarter, our revenues from india has grown by 21.9% year-on-year,",
+        "based to annuity and service-based revenue streams. in terms of our employee base, we"
+      ]
+    },
+    "topic_476f4c70": {
+      "id": "topic_476f4c70",
+      "canonical_name": "Thomas Digital Services",
+      "description": "Topic containing: thomas digital, thomas digital services",
+      "terms": [
+        "thomas digital",
+        "thomas digital services"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": []
+    },
+    "topic_997b0166": {
+      "id": "topic_997b0166",
+      "canonical_name": "Kiran Thomas and Digital Services",
+      "description": "Topic containing: kiran thomas digital, kiran thomas, sh kiran thomas, kiran",
+      "terms": [
+        "kiran thomas digital",
+        "kiran thomas",
+        "sh kiran thomas",
+        "kiran"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh kiran thomas, president, reliance jio infocomm limited",
+        "\u2022 sh kiran thomas 00:07:18 \u2013 00:21:29 (digital services)",
+        "\u2022 sh kiran thomas, president, reliance jio infocomm limited"
+      ]
+    },
+    "topic_8029f1ca": {
+      "id": "topic_8029f1ca",
+      "canonical_name": "Corporate Leadership Profiles",
+      "description": "Topic containing: sh v srikanth, v srikanth",
+      "terms": [
+        "sh v srikanth",
+        "v srikanth"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh v srikanth, cfo, reliance industries limited",
+        "\u2022 sh v srikanth, cfo, reliance industries limited"
+      ]
+    },
+    "topic_bd4f4367": {
+      "id": "topic_bd4f4367",
+      "canonical_name": "Financial Reporting and Results",
+      "description": "Topic containing: financial results, financials, unaudited financial results, unaudited",
+      "terms": [
+        "financial results",
+        "financials",
+        "unaudited financial results",
+        "unaudited"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "on the unaudited financial results (consolidated and standalone) for the",
+        "the analysts on january 16, 2025, on the unaudited financial results (consolidated and",
+        "\u2022 sh v. srikanth 00:00:41 \u2013 00:07:17 (consolidated financials)"
+      ]
+    },
+    "topic_e2444358": {
+      "id": "topic_e2444358",
+      "canonical_name": "Year-on-Year Growth Metrics",
+      "description": "Topic containing: year growth, on year growth, year on year",
+      "terms": [
+        "year growth",
+        "on year growth",
+        "year on year"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the enterprise business is also picking up momentum. if you look at year on year growth,",
+        "overall q3 revenues came in at 33,074 crores, 19.4% year on year growth. we are seeing a",
+        "the enterprise business is also picking up momentum. if you look at year on year growth,"
+      ]
+    },
+    "topic_bd8b20ae": {
+      "id": "topic_bd8b20ae",
+      "canonical_name": "Ajay Jain and Related Individuals",
+      "description": "Topic containing: ajay, ajay jain, jain",
+      "terms": [
+        "ajay",
+        "ajay jain",
+        "jain"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of ajay jain, an individual investor. please go",
+        "ajay jain: thank you very much for taking my question. i have one question. there have been many",
+        "moderator: thank you. next question comes from the line of ajay jain, an individual investor. please go"
+      ]
+    },
+    "topic_775fab87": {
+      "id": "topic_775fab87",
+      "canonical_name": "Healthcare Media and Communication",
+      "description": "Topic containing: media, media and communication, and media, healthcare and media, healthcare and",
+      "terms": [
+        "media",
+        "media and communication",
+        "and media",
+        "healthcare and media",
+        "healthcare and",
+        "healthcare"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our media and communication business reported a 0.4% quarter-on-quarter growth. we are",
+        "positioned well to help customers in the media, entertainment and telecom industry on all 3",
+        "our media and communication business reported a 0.4% quarter-on-quarter growth. we are"
+      ]
+    },
+    "topic_180949f1": {
+      "id": "topic_180949f1",
+      "canonical_name": "Cost Management and Expense Analysis",
+      "description": "Topic containing: cost, expense, high cost",
+      "terms": [
+        "cost",
+        "expense",
+        "high cost"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "pyramid optimization, utilization improvement and also on-site salary cost due to the currency",
+        "movement helped in terms of the reduction in the cost. so, most of the wage hike has been",
+        "this is an expense impact of 60 basis points. and apart from this, there is a reduction in the"
+      ]
+    },
+    "topic_f4c08f2f": {
+      "id": "topic_f4c08f2f",
+      "canonical_name": "Reliance Jio and Infocomm",
+      "description": "Topic containing: jio, the jio, jio infocomm, about jio, jio infocomm limited",
+      "terms": [
+        "jio",
+        "the jio",
+        "jio infocomm",
+        "about jio",
+        "jio infocomm limited",
+        "talk about jio",
+        "reliance jio",
+        "infocomm",
+        "infocomm limited",
+        "reliance jio infocomm"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh kiran thomas, president, reliance jio infocomm limited",
+        "\u2022 sh anshuman thakur, head of strategy, reliance jio infocomm limited",
+        "as the jio airfiber connect that we saw. flat in terms of net debt, you can see that, you know,"
+      ]
+    },
+    "topic_fda88b90": {
+      "id": "topic_fda88b90",
+      "canonical_name": "Shashank Ganesh Professional Profile",
+      "description": "Topic containing: mr shashank ganesh, shashank ganesh, shashank",
+      "terms": [
+        "mr shashank ganesh",
+        "shashank ganesh",
+        "shashank"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: mr. shashank ganesh \u2013 ernst & young",
+        "i now hand the conference over to mr. shashank ganesh from ey. thank you, and over to you",
+        "moderator: mr. shashank ganesh \u2013 ernst & young"
+      ]
+    },
+    "topic_6b875ce6": {
+      "id": "topic_6b875ce6",
+      "canonical_name": "Post-Pandemic Economic Adjustments",
+      "description": "Topic containing: new normal, the new normal",
+      "terms": [
+        "new normal",
+        "the new normal"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "understand, do you think that these are the new normal levels of margins? or we can go back",
+        "rate be upwards of 24%, 25%, is that the new normal?",
+        "understand, do you think that these are the new normal levels of margins? or we can go back"
+      ]
+    },
+    "topic_242feae9": {
+      "id": "topic_242feae9",
+      "canonical_name": "Geographical Contexts in Business",
+      "description": "Topic containing: geographies, geography",
+      "terms": [
+        "geographies",
+        "geography"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "local geographies. so we will see some impact.",
+        "kanchi shah: in terms of revenue contribution, like how much are these geographies contributing to the",
+        "large deals happening in the u.s. geography."
+      ]
+    },
+    "topic_8a9810f1": {
+      "id": "topic_8a9810f1",
+      "canonical_name": "Anshuman Thakur and Digital Strategy",
+      "description": "Topic containing: anshuman thakur digital, anshuman thakur, thakur",
+      "terms": [
+        "anshuman thakur digital",
+        "anshuman thakur",
+        "thakur"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh anshuman thakur, head of strategy, reliance jio infocomm limited",
+        "\u2022 sh anshuman thakur 00:21:30 \u2013 00:26:52 (digital services - financials)",
+        "\u2022 sh anshuman thakur, head of strategy, reliance jio infocomm limited"
+      ]
+    },
+    "topic_8d091e2e": {
+      "id": "topic_8d091e2e",
+      "canonical_name": "Infrastructure Development and Technology",
+      "description": "Topic containing: infrastructure, and infrastructure",
+      "terms": [
+        "infrastructure",
+        "and infrastructure"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "technology as well as access to their infrastructure and labs, right, especially when you look at",
+        "various companies like nal, hal, and others already had those infrastructure that is",
+        "technology and infrastructure in place. and we are trying to build that through collaboration"
+      ]
+    },
+    "topic_bf2c3907": {
+      "id": "topic_bf2c3907",
+      "canonical_name": "Manoj Raghavan Leadership",
+      "description": "Topic containing: manoj raghavan, mr manoj raghavan, raghavan, raghavan managing director",
+      "terms": [
+        "manoj raghavan",
+        "mr manoj raghavan",
+        "raghavan",
+        "raghavan managing director"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "management: mr. manoj raghavan \u2013 managing director and",
+        "of tata elxsi, represented by mr. manoj raghavan, managing director and ceo; mr. gaurav",
+        "management: mr. manoj raghavan \u2013 managing director and"
+      ]
+    },
+    "topic_6b22ee04": {
+      "id": "topic_6b22ee04",
+      "canonical_name": "Chief Financial Officer Role",
+      "description": "Topic containing: chief financial officer, cfo",
+      "terms": [
+        "chief financial officer",
+        "cfo"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "mr. gaurav bajaj \u2013 chief financial officer \u2013",
+        "bajaj, chief financial officer; and ms. cauveri sriram, company secretary. we will start the",
+        "\u2022 sh v srikanth, cfo, reliance industries limited"
+      ]
+    },
+    "topic_fa2ff7e0": {
+      "id": "topic_fa2ff7e0",
+      "canonical_name": "Current Quarter Financial Reporting",
+      "description": "Topic containing: current quarter, the current quarter",
+      "terms": [
+        "current quarter",
+        "the current quarter"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "do the tax provisioning. so that has led to the income tax rate for the current quarter at 22.2%.",
+        "rishi maheshwari: sir, just got off a call from tcs who mentions that the current quarter gives them significant",
+        "do the tax provisioning. so that has led to the income tax rate for the current quarter at 22.2%."
+      ]
+    },
+    "topic_a4229689": {
+      "id": "topic_a4229689",
+      "canonical_name": "Sh Anshuman Thakur",
+      "description": "Topic containing: sh anshuman, sh anshuman thakur",
+      "terms": [
+        "sh anshuman",
+        "sh anshuman thakur"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh anshuman thakur, head of strategy, reliance jio infocomm limited",
+        "\u2022 sh anshuman thakur 00:21:30 \u2013 00:26:52 (digital services - financials)",
+        "\u2022 sh anshuman thakur, head of strategy, reliance jio infocomm limited"
+      ]
+    },
+    "topic_16ca9775": {
+      "id": "topic_16ca9775",
+      "canonical_name": "Sanjay Barman Roy and Professional Affiliations",
+      "description": "Topic containing: sh sanjay, sanjay barman roy, sanjay barman",
+      "terms": [
+        "sh sanjay",
+        "sanjay barman roy",
+        "sanjay barman"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh sanjay barman roy, president \u2013 e&p, reliance industries limited",
+        "\u2022 sh sanjay barman roy 00:41:17 \u2013 00:46:28 (hydrocarbons - exploration &",
+        "\u2022 sh sanjay barman roy, president \u2013 e&p, reliance industries limited"
+      ]
+    },
+    "topic_7a63c109": {
+      "id": "topic_7a63c109",
+      "canonical_name": "First Quarter Financial Reporting",
+      "description": "Topic containing: first quarter, the first quarter",
+      "terms": [
+        "first quarter",
+        "the first quarter"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "margins stood at 26.3% and pbt margin was reported at 26.1%. this was the first quarter in",
+        "in the first quarter itself post launch.",
+        "margins stood at 26.3% and pbt margin was reported at 26.1%. this was the first quarter in"
+      ]
+    },
+    "topic_60db9b8f": {
+      "id": "topic_60db9b8f",
+      "canonical_name": "Business Growth and Expansion",
+      "description": "Topic containing: expansion, continue to expand",
+      "terms": [
+        "expansion",
+        "continue to expand"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "footprint expansion, 779 stores, overall that we saw.",
+        "before getting into the expansion projects, it will be helpful to see what is happening in terms",
+        "and ebitda margin continue to expand at 8.6%. it\u2019s up 20 basis points on a year-on-year"
+      ]
+    },
+    "topic_d2e410c1": {
+      "id": "topic_d2e410c1",
+      "canonical_name": "Price Dynamics",
+      "description": "Topic containing: prices, price, pricing",
+      "terms": [
+        "prices",
+        "price",
+        "pricing"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "impacted by the substantial increase in gold prices. we had a decent quarter, especially",
+        "still quite healthy. the difference being here qoq, prices were far elevated when you look at",
+        "competitive intensity, pricing power from the perspective of tata elxsi and billability or price"
+      ]
+    },
+    "topic_3b6c1b4b": {
+      "id": "topic_3b6c1b4b",
+      "canonical_name": "Stock Exchanges",
+      "description": "Topic containing: stock exchange, national stock exchange",
+      "terms": [
+        "stock exchange",
+        "national stock exchange"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "bse ltd. national stock exchange of india ltd.",
+        "bse limited national stock exchange of india limited",
+        "bse ltd. national stock exchange of india ltd."
+      ]
+    },
+    "topic_31d77e90": {
+      "id": "topic_31d77e90",
+      "canonical_name": "Qualcomm Partnerships and Solutions",
+      "description": "Topic containing: qualcomm, with qualcomm",
+      "terms": [
+        "qualcomm",
+        "with qualcomm"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "with qualcomm. we offer a compelling proposition of a ready to adopt solution, coupled with",
+        "have partnered with qualcomm. it's built on a snapdragon qualcomm chassis. so, we are",
+        "with qualcomm. we offer a compelling proposition of a ready to adopt solution, coupled with"
+      ]
+    },
+    "topic_3eccef54": {
+      "id": "topic_3eccef54",
+      "canonical_name": "Gaurav Bajaj",
+      "description": "Topic containing: gaurav bajaj, gaurav",
+      "terms": [
+        "gaurav bajaj",
+        "gaurav"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "mr. gaurav bajaj \u2013 chief financial officer \u2013",
+        "gaurav bajaj: so, bhavik, i think what we alluded, also manoj mentioned that at constant currency basis we",
+        "mr. gaurav bajaj \u2013 chief financial officer \u2013"
+      ]
+    },
+    "topic_a597dc23": {
+      "id": "topic_a597dc23",
+      "canonical_name": "Saks Fifth Avenue Franchise and Retail Expansion",
+      "description": "Topic containing: saks, with saks, saks fifth avenue, fifth avenue",
+      "terms": [
+        "saks",
+        "with saks",
+        "saks fifth avenue",
+        "fifth avenue"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "we entered into a franchise for india with saks fifth avenue, which is a global luxury retailer.",
+        "india franchise for saks fifth avenue to target the super luxury segment. in addition, the ips",
+        "we entered into a franchise for india with saks fifth avenue, which is a global luxury retailer."
+      ]
+    },
+    "topic_58ea6626": {
+      "id": "topic_58ea6626",
+      "canonical_name": "Service Provision and Delivery",
+      "description": "Topic containing: services, service provider, provider, exclusive service provider, exclusive service",
+      "terms": [
+        "services",
+        "service provider",
+        "provider",
+        "exclusive service provider",
+        "exclusive service"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "electric vehicle services in western market, particularly in the u.s. and europe, are stagnated",
+        "\u2022 sh kiran thomas 00:07:18 \u2013 00:21:29 (digital services)",
+        "selected as almost near exclusive service provider because most enterprises who have"
+      ]
+    },
+    "topic_0a904e89": {
+      "id": "topic_0a904e89",
+      "canonical_name": "Industry Dynamics",
+      "description": "Topic containing: industry, the industry",
+      "terms": [
+        "industry",
+        "the industry"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "uncertainty, currency volatility and industry-specific challenges in europe and us. coming to",
+        "our businesses. the automotive industry has seen significant business challenges in the past",
+        "manoj raghavan: that is true. that is the industry trend that we are seeing, especially in the western world, the"
+      ]
+    },
+    "topic_ab3d0f7c": {
+      "id": "topic_ab3d0f7c",
+      "canonical_name": "Asia-Pacific Region",
+      "description": "Topic containing: asia, asia pacific, apac market, apac, the apac market",
+      "terms": [
+        "asia",
+        "asia pacific",
+        "apac market",
+        "apac",
+        "the apac market",
+        "the apac",
+        "pacific"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "quarter or so. however, we're seeing a lot of good opportunities in asia, in india as well as in",
+        "quarter has come in from asia pacific region, in japan and so on. so these are all set of new",
+        "quarter has come in from asia pacific region, in japan and so on. so these are all set of new"
+      ]
+    },
+    "topic_64c2d49f": {
+      "id": "topic_64c2d49f",
+      "canonical_name": "Bandra-Kurla Urban Development",
+      "description": "Topic containing: kurla, kurla complex, bandra kurla, bandra kurla complex",
+      "terms": [
+        "kurla",
+        "kurla complex",
+        "bandra kurla",
+        "bandra kurla complex"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "dalal street bandra \u2013 kurla complex bandra (east)",
+        "dalal street, g block, bandra - kurla complex,",
+        "dalal street bandra \u2013 kurla complex bandra (east)"
+      ]
+    },
+    "topic_412360ef": {
+      "id": "topic_412360ef",
+      "canonical_name": "Dalal Street Locations",
+      "description": "Topic containing: dalal, dalal street",
+      "terms": [
+        "dalal",
+        "dalal street"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "dalal street bandra \u2013 kurla complex bandra (east)",
+        "dalal street, g block, bandra - kurla complex,",
+        "dalal street bandra \u2013 kurla complex bandra (east)"
+      ]
+    },
+    "topic_dbe23bbd": {
+      "id": "topic_dbe23bbd",
+      "canonical_name": "European Market Dynamics",
+      "description": "Topic containing: european market, the european market, the european, europe",
+      "terms": [
+        "european market",
+        "the european market",
+        "the european",
+        "europe"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "where we see continued pain in the european market. the u.s. market is seeing a little bit of",
+        "from the slowdown in the european market. but still the european market is a significant part",
+        "where we see continued pain in the european market. the u.s. market is seeing a little bit of"
+      ]
+    },
+    "topic_b49a3e1d": {
+      "id": "topic_b49a3e1d",
+      "canonical_name": "Consistent Performance Metrics",
+      "description": "Topic containing: a steady performance, steady performance",
+      "terms": [
+        "a steady performance",
+        "steady performance"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "domestic demand and upstream has been a steady performance.",
+        "quarter basis, even on a year-on-year basis, i would say it's a steady performance with a lot",
+        "domestic demand and upstream has been a steady performance."
+      ]
+    },
+    "topic_fb09bb31": {
+      "id": "topic_fb09bb31",
+      "canonical_name": "Order to Cash (O2C) Business Management",
+      "description": "Topic containing: o2c, o2c business, o2c performance, o2c business summary, srikanth o2c business",
+      "terms": [
+        "o2c",
+        "o2c business",
+        "o2c performance",
+        "o2c business summary",
+        "srikanth o2c business",
+        "srikanth o2c",
+        "on o2c"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh v. srikanth 00:46:29 \u2013 01:04:54 (o2c business, summary and closure)",
+        "summarise. before summarising, he will also talk about o2c performance.",
+        "\u2022 sh v. srikanth 00:46:29 \u2013 01:04:54 (o2c business, summary and closure)"
+      ]
+    },
+    "topic_40e7899d": {
+      "id": "topic_40e7899d",
+      "canonical_name": "Technology Platforms",
+      "description": "Topic containing: platforms, platform",
+      "terms": [
+        "platforms",
+        "platform"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the immediate capex on the existing platforms is cut, but in this particular down cycle of autos",
+        "in the west, are you seeing some of the ev platforms or the software platforms being",
+        "avenir encompasses a cloud-native virtual development platform and a hybrid global"
+      ]
+    },
+    "topic_ba26a936": {
+      "id": "topic_ba26a936",
+      "canonical_name": "Economic Offsets",
+      "description": "Topic containing: offsets, offset",
+      "terms": [
+        "offsets",
+        "offset"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "from what it was last year. so, this performance, in a way, offsets the 15% fall in gasoline. it",
+        "offsets the 38% fall in across gasoil and atf, and also it offsets the polyester chain margins,",
+        "now, the marginally lower production has been offset by higher price realizations in kgd6."
+      ]
+    },
+    "topic_d02df639": {
+      "id": "topic_d02df639",
+      "canonical_name": "Brand Management and Business",
+      "description": "Topic containing: brands, brand, brands business",
+      "terms": [
+        "brands",
+        "brand",
+        "brands business"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "also benefiting from very strong traction in our consumer brands.",
+        "our own brands business continues to launch new products. there were several launches",
+        "the brand name is jiocx and in addition to that of course the iot adoption again which"
+      ]
+    },
+    "topic_b2984f01": {
+      "id": "topic_b2984f01",
+      "canonical_name": "Average Bill Metrics",
+      "description": "Topic containing: the average, the average bill, our average bill, average bill, average bill values",
+      "terms": [
+        "the average",
+        "the average bill",
+        "our average bill",
+        "average bill",
+        "average bill values",
+        "bill values"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the average bill values and premiumize the offering. so that continues to do well. we have",
+        "country. the average bill value was up 7% on y-o-y basis. we added almost 2 million",
+        "the average bill values and premiumize the offering. so that continues to do well. we have"
+      ]
+    },
+    "topic_55a837c1": {
+      "id": "topic_55a837c1",
+      "canonical_name": "Business Meeting Summaries and Conclusions",
+      "description": "Topic containing: summary and closure, summary",
+      "terms": [
+        "summary and closure",
+        "summary"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "\u2022 sh v. srikanth 00:46:29 \u2013 01:04:54 (o2c business, summary and closure)",
+        "sh v. srikanth 00:46:29 \u2013 01:04:54 (o2c business, summary and closure)",
+        "\u2022 sh v. srikanth 00:46:29 \u2013 01:04:54 (o2c business, summary and closure)"
+      ]
+    },
+    "topic_4a1d200d": {
+      "id": "topic_4a1d200d",
+      "canonical_name": "Product Offerings",
+      "description": "Topic containing: offerings, the offerings, offerings that, offerings that we",
+      "terms": [
+        "offerings",
+        "the offerings",
+        "offerings that",
+        "offerings that we"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "digital engineering and sustainability offerings are seeing significant traction in the market.",
+        "and if you are looking at what other offerings beyond the platform play, what are the offerings",
+        "and if you are looking at what other offerings beyond the platform play, what are the offerings"
+      ]
+    },
+    "topic_d67775dc": {
+      "id": "topic_d67775dc",
+      "canonical_name": "Market Demand Dynamics",
+      "description": "Topic containing: demand, demand for, the demand, demand coming, the demand for",
+      "terms": [
+        "demand",
+        "demand for",
+        "the demand",
+        "demand coming",
+        "the demand for",
+        "overall demand",
+        "in demand",
+        "lot of demand"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "domestic demand and upstream has been a steady performance.",
+        "we obviously benefitted from an exceptionally strong festive season demand. and as you",
+        "lng imports also saw a surge. despite elevated prices, we saw the overall demand for lng"
+      ]
+    },
+    "topic_fcff1545": {
+      "id": "topic_fcff1545",
+      "canonical_name": "Business-to-Consumer (B2C) Commerce",
+      "description": "Topic containing: b2c, b2c business",
+      "terms": [
+        "b2c",
+        "b2c business"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "come out, especially when you look at grocery, if you look at b2c that\u2019s a 37% growth, and",
+        "our grocery business b2c business grew at 37% y-o-y. so, while there's a lot of talk about",
+        "our grocery business b2c business grew at 37% y-o-y. so, while there's a lot of talk about"
+      ]
+    },
+    "topic_2f0f4d7d": {
+      "id": "topic_2f0f4d7d",
+      "canonical_name": "India Economic and Business Landscape",
+      "description": "Topic containing: in india, india, india is",
+      "terms": [
+        "in india",
+        "india",
+        "india is"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "quarter or so. however, we're seeing a lot of good opportunities in asia, in india as well as in",
+        "that companies in india can really tap into and provide those capabilities to the other global car",
+        "bse ltd. national stock exchange of india ltd."
+      ]
+    },
+    "topic_8626821c": {
+      "id": "topic_8626821c",
+      "canonical_name": "Use Case Development",
+      "description": "Topic containing: use cases, multiple use cases, multiple use",
+      "terms": [
+        "use cases",
+        "multiple use cases",
+        "multiple use"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "across industries, across functions, across, even across various use cases. and to enable all",
+        "and support the emergence of ai driven use cases in the country.",
+        "internally i think we are seeing already multiple use cases where we are starting to weave"
+      ]
+    },
+    "topic_be16fc14": {
+      "id": "topic_be16fc14",
+      "canonical_name": "Sanjay Chawla and Renaissance Investment",
+      "description": "Topic containing: sanjay, sanjay chawla, chawla",
+      "terms": [
+        "sanjay",
+        "sanjay chawla",
+        "chawla"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of sanjay chawla with renaissance investment",
+        "sanjay chawla: good evening. thank you for the opportunity. you talked about western governments",
+        "moderator: thank you. next question comes from the line of sanjay chawla with renaissance investment"
+      ]
+    },
+    "topic_87546fab": {
+      "id": "topic_87546fab",
+      "canonical_name": "Phiroze Jeejeebhoy Towers and Exchange Plaza",
+      "description": "Topic containing: plaza, exchange plaza, towers, towers exchange plaza, phiroze",
+      "terms": [
+        "plaza",
+        "exchange plaza",
+        "towers",
+        "towers exchange plaza",
+        "phiroze",
+        "phiroze jeejeebhoy",
+        "phiroze jeejeebhoy towers",
+        "jeejeebhoy",
+        "jeejeebhoy towers",
+        "jeejeebhoy towers exchange"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "phiroze jeejeebhoy towers exchange plaza, plot no. c-1, block g",
+        "phiroze jeejeebhoy towers, exchange plaza, plot no. c/1,",
+        "phiroze jeejeebhoy towers exchange plaza, plot no. c-1, block g"
+      ]
+    },
+    "topic_83ff9332": {
+      "id": "topic_83ff9332",
+      "canonical_name": "Business Partnerships and Collaborations",
+      "description": "Topic containing: tie, tie up",
+      "terms": [
+        "tie",
+        "tie up"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "vertical. and the tie-up with nal is one such tie-up that we have, of course, for access to",
+        "available. the tie up is definitely to, when we bid for projects, there is a need to have both",
+        "available. the tie up is definitely to, when we bid for projects, there is a need to have both"
+      ]
+    },
+    "topic_f8b19f81": {
+      "id": "topic_f8b19f81",
+      "canonical_name": "Business Deal Closures",
+      "description": "Topic containing: closure, closures",
+      "terms": [
+        "closure",
+        "closures"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "vertical in terms of when do you expect deal closure to normalize or deal ramp ups to",
+        "\u2022 sh v. srikanth 00:46:29 \u2013 01:04:54 (o2c business, summary and closure)",
+        "this has impacted new deal closures and the tier 1 supplier spend. amidst this business"
+      ]
+    },
+    "topic_f322a313": {
+      "id": "topic_f322a313",
+      "canonical_name": "Large Deal Management",
+      "description": "Topic containing: large deals, large deals and, some large deals, deal, a deal",
+      "terms": [
+        "large deals",
+        "large deals and",
+        "some large deals",
+        "deal",
+        "a deal",
+        "winning deals",
+        "deal wins",
+        "the deals",
+        "wins"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "environment, tata elxsi continues to do well to win and execute on large deals won over this",
+        "ramp this up over the next few quarters. we are positioned well in some very large deals",
+        "quarter onwards, in some cases from q1. we have won some large deals and those ramp-ups"
+      ]
+    },
+    "topic_94ec44f9": {
+      "id": "topic_94ec44f9",
+      "canonical_name": "Business Growth Strategies",
+      "description": "Topic containing: ramp ups, ramp up",
+      "terms": [
+        "ramp ups",
+        "ramp up"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "vertical in terms of when do you expect deal closure to normalize or deal ramp ups to",
+        "and a number of things that we are doing in the u.s. market to really ramp up our business.",
+        "believe that this transformation will be across the board, and we need to be ready to ramp up"
+      ]
+    },
+    "topic_96b9c1ab": {
+      "id": "topic_96b9c1ab",
+      "canonical_name": "Software Development and Engineering",
+      "description": "Topic containing: software, and software",
+      "terms": [
+        "software",
+        "and software"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "japan, to support their global technology software and engineering development. suzuki's",
+        "suzuki's innovation strategy, helping it accelerate software and virtual development across",
+        "deep digital and software expertise and scale talent base to help global oem shift left and"
+      ]
+    },
+    "topic_70a51833": {
+      "id": "topic_70a51833",
+      "canonical_name": "Monetization Strategies",
+      "description": "Topic containing: monetization of, monetization",
+      "terms": [
+        "monetization of",
+        "monetization"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "monetization of these? can we see anything on these lines in future?",
+        "because of the monetization of all the deals that we have won. so it's wrong for you to say that",
+        "monetization of these? can we see anything on these lines in future?"
+      ]
+    },
+    "topic_9aeeb3e5": {
+      "id": "topic_9aeeb3e5",
+      "canonical_name": "Software-Defined Vehicle (SDV) Ecosystem",
+      "description": "Topic containing: the sdv, sdv, the sdv platform, sdv platform",
+      "terms": [
+        "the sdv",
+        "sdv",
+        "the sdv platform",
+        "sdv platform"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "accelerate the sdv and future mobility road maps.",
+        "so, we have ongoing customers where we are engaged on the sdv platform. plus, we are also",
+        "accelerate the sdv and future mobility road maps."
+      ]
+    },
+    "topic_724ed776": {
+      "id": "topic_724ed776",
+      "canonical_name": "Bhavik Mehta - Financial Analyst",
+      "description": "Topic containing: bhavik mehta, bhavik",
+      "terms": [
+        "bhavik mehta",
+        "bhavik"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. the first question comes from the line of bhavik mehta with jp morgan. please go",
+        "bhavik mehta: thank you. couple of questions. firstly, manoj, if you can talk about the outlook for the auto",
+        "moderator: thank you. the first question comes from the line of bhavik mehta with jp morgan. please go"
+      ]
+    },
+    "topic_aeb79178": {
+      "id": "topic_aeb79178",
+      "canonical_name": "Indian Financial Units",
+      "description": "Topic containing: rs crores, crores",
+      "terms": [
+        "rs crores",
+        "crores"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our revenues from operations were reported at inr939.2 crores. during the quarter, ebitda",
+        "quarter and there's a dip in the depreciation and the finance cost of another inr1.5 crores. so,"
+      ]
+    },
+    "topic_8f249441": {
+      "id": "topic_8f249441",
+      "canonical_name": "Polyester Production and Market Dynamics",
+      "description": "Topic containing: polyester, polyester chain",
+      "terms": [
+        "polyester",
+        "polyester chain"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "close to 6% demand growth, polymer at 11% and polyester at 12%. so, in a way, the mixed",
+        "offsets the 38% fall in across gasoil and atf, and also it offsets the polyester chain margins,",
+        "offsets the 38% fall in across gasoil and atf, and also it offsets the polyester chain margins,"
+      ]
+    },
+    "topic_020cd67b": {
+      "id": "topic_020cd67b",
+      "canonical_name": "Market Traction Analysis",
+      "description": "Topic containing: traction in, traction",
+      "terms": [
+        "traction in",
+        "traction"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "digital engineering and sustainability offerings are seeing significant traction in the market.",
+        "also benefiting from very strong traction in our consumer brands.",
+        "digital engineering and sustainability offerings are seeing significant traction in the market."
+      ]
+    },
+    "topic_804831ee": {
+      "id": "topic_804831ee",
+      "canonical_name": "Market Traction Indicators",
+      "description": "Topic containing: strong traction, very strong traction",
+      "terms": [
+        "strong traction",
+        "very strong traction"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "also benefiting from very strong traction in our consumer brands.",
+        "jio is seeing the benefit of the tariff hikes, and you're seeing the very strong traction on the",
+        "also benefiting from very strong traction in our consumer brands."
+      ]
+    },
+    "topic_facc000e": {
+      "id": "topic_facc000e",
+      "canonical_name": "Fuel Types and Markets",
+      "description": "Topic containing: fuel, domestic fuel, transportation fuel",
+      "terms": [
+        "fuel",
+        "domestic fuel",
+        "transportation fuel"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "big push towards in our domestic fuel retailing. and if you see the volumes, volumes have",
+        "able to place a lot of our fuel in the domestic markets. also, the continuing advantage of",
+        "big push towards in our domestic fuel retailing. and if you see the volumes, volumes have"
+      ]
+    },
+    "topic_f52283f5": {
+      "id": "topic_f52283f5",
+      "canonical_name": "Client Accounts Management",
+      "description": "Topic containing: accounts, account",
+      "terms": [
+        "accounts",
+        "account"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "growth in other oem accounts, so i'm not overly concerned about that.",
+        "account for us. and a lot of the top 10 accounts are auto companies that are based in europe as",
+        "ensured that our dependence on jlr as an account has actually come down. i'm happy with the"
+      ]
+    },
+    "topic_33e39abf": {
+      "id": "topic_33e39abf",
+      "canonical_name": "Taxation and Tax Rates",
+      "description": "Topic containing: the tax, the tax rate, tax, tax rate, income tax",
+      "terms": [
+        "the tax",
+        "the tax rate",
+        "tax",
+        "tax rate",
+        "income tax",
+        "the income tax",
+        "tax rate for"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "should we think about the tax rate going forward because tax rate has been quite low over the",
+        "i think your second question was on the tax benefit and the tax rate for the current period and",
+        "should we think about the tax rate going forward because tax rate has been quite low over the"
+      ]
+    },
+    "topic_3922d8b3": {
+      "id": "topic_3922d8b3",
+      "canonical_name": "Strategic Push Initiatives",
+      "description": "Topic containing: push, push towards, big push",
+      "terms": [
+        "push",
+        "push towards",
+        "big push"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "and of course, there's also a push towards ice and hybrid because in some sense, they believe",
+        "really push forward on those customers that have money and the willingness to spend, and",
+        "and of course, there's also a push towards ice and hybrid because in some sense, they believe"
+      ]
+    },
+    "topic_9a16fb8c": {
+      "id": "topic_9a16fb8c",
+      "canonical_name": "Battery Management and Certification",
+      "description": "Topic containing: battery, battery passport",
+      "terms": [
+        "battery",
+        "battery passport"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "battery passport, bms, and the number of things that we are doing.",
+        "battery passport. in the media and communication vertical also, we talked about a number of",
+        "battery passport, bms, and the number of things that we are doing."
+      ]
+    },
+    "topic_079db80e": {
+      "id": "topic_079db80e",
+      "canonical_name": "Industry Trends and Developments",
+      "description": "Topic containing: that space, in that space",
+      "terms": [
+        "that space",
+        "in that space"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "connected car or the connected vehicle perspective, there is a lot of interest in that space. we",
+        "are also winning deals in that space. so commercial vehicles definitely.",
+        "connected car or the connected vehicle perspective, there is a lot of interest in that space. we"
+      ]
+    },
+    "topic_50360331": {
+      "id": "topic_50360331",
+      "canonical_name": "Avionics and Defence Systems",
+      "description": "Topic containing: avionics and defence, avionics and, avionics",
+      "terms": [
+        "avionics and defence",
+        "avionics and",
+        "avionics"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "avionics and defence. these are the 3 adjacencies from a transportation business that we are",
+        "manoj raghavan: so definitely, we see aerospace, avionics and defence going to be a big opportunity area for",
+        "avionics and defence. these are the 3 adjacencies from a transportation business that we are"
+      ]
+    },
+    "topic_6a9ed08f": {
+      "id": "topic_6a9ed08f",
+      "canonical_name": "Project Management and Development",
+      "description": "Topic containing: projects, project, the projects",
+      "terms": [
+        "projects",
+        "project",
+        "the projects"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our system integration business witnessed decision delays in some large projects that had a",
+        "manoj raghavan: it is the near-term projects that are being reconsidered because as you would have read, most",
+        "over this quarter and beyond, we continue to work on pivoting the business away from project-"
+      ]
+    },
+    "topic_6c368321": {
+      "id": "topic_6c368321",
+      "canonical_name": "Unmanned Aerial Vehicles (UAVs) and Drones",
+      "description": "Topic containing: uavs, drones",
+      "terms": [
+        "uavs",
+        "drones"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "enterprises within india or overseas for the uavs and uams?",
+        "uavs and drones, flight control systems and so on. some of the labs are very, very expensive",
+        "uavs and drones, flight control systems and so on. some of the labs are very, very expensive"
+      ]
+    },
+    "topic_d0e3cba0": {
+      "id": "topic_d0e3cba0",
+      "canonical_name": "Regulatory Disclosure Requirements",
+      "description": "Topic containing: disclosure, disclosure requirements",
+      "terms": [
+        "disclosure",
+        "disclosure requirements"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "pursuant to regulation 30 of sebi (listing obligations and disclosure requirements) regulations 2015,",
+        "and disclosure requirements) regulations, 2015, the transcript of the presentation made to",
+        "pursuant to regulation 30 of sebi (listing obligations and disclosure requirements) regulations 2015,"
+      ]
+    },
+    "topic_27daf5cf": {
+      "id": "topic_27daf5cf",
+      "canonical_name": "Regulatory Frameworks",
+      "description": "Topic containing: regulations, regulation",
+      "terms": [
+        "regulations",
+        "regulation"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "pursuant to regulation 30 of sebi (listing obligations and disclosure requirements) regulations 2015,",
+        "and disclosure requirements) regulations, 2015, the transcript of the presentation made to",
+        "pursuant to regulation 30 of sebi (listing obligations and disclosure requirements) regulations 2015,"
+      ]
+    },
+    "topic_afa4deb4": {
+      "id": "topic_afa4deb4",
+      "canonical_name": "Festival and Festive Season Dynamics",
+      "description": "Topic containing: during the festival, the festival season, festival season, festival, festive season",
+      "terms": [
+        "during the festival",
+        "the festival season",
+        "festival season",
+        "festival",
+        "festive season",
+        "the festive season",
+        "strong festive season",
+        "the festival",
+        "strong festive",
+        "the festive demand",
+        "festive demand",
+        "festive demand that"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "and remember, these footfall driver categories during the festival season.",
+        "categories. and you know, during the festival season, we saw one and a half x growth in",
+        "the festival season, but also a lot of hard work that we had been doing on enhancing our"
+      ]
+    },
+    "topic_d87bad15": {
+      "id": "topic_d87bad15",
+      "canonical_name": "Polymer Science and Applications",
+      "description": "Topic containing: polymers, polymer",
+      "terms": [
+        "polymers",
+        "polymer"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "reductions in margins \u2013 anywhere between 30% to 70% \u2013 across refining, polymers, and",
+        "polymers across pe, pp, pvc, and where it is going \u2013 be it packaging, automobiles, infra,",
+        "close to 6% demand growth, polymer at 11% and polyester at 12%. so, in a way, the mixed"
+      ]
+    },
+    "topic_5a103a84": {
+      "id": "topic_5a103a84",
+      "canonical_name": "Average Revenue Per User (ARPU)",
+      "description": "Topic containing: arpu, the arpu",
+      "terms": [
+        "arpu",
+        "the arpu"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "on jio, the story is about higher arpu, and the fact that we are adding consumers, especially",
+        "arpu (average revenue per user) at \u20b9203, which is up 12%, and also us adding almost",
+        "that number has been picking up through the quarter. the arpu came in at 203.3 rupees"
+      ]
+    },
+    "topic_2bb680a9": {
+      "id": "topic_2bb680a9",
+      "canonical_name": "Commercial Vehicle Industry",
+      "description": "Topic containing: commercial vehicles, commercial vehicle",
+      "terms": [
+        "commercial vehicles",
+        "commercial vehicle"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "just the passenger car companies, but also commercial vehicles, because from a fleet",
+        "are also winning deals in that space. so commercial vehicles definitely.",
+        "in discussions with a few oems, both passenger vehicles and commercial vehicle companies,"
+      ]
+    },
+    "topic_8ad6f60d": {
+      "id": "topic_8ad6f60d",
+      "canonical_name": "Business Adjacencies",
+      "description": "Topic containing: the adjacencies, adjacencies",
+      "terms": [
+        "the adjacencies",
+        "adjacencies"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "more, we had spoken about some of the adjacencies; is there any update over there? has that",
+        "to long term, definitely, our focus is on the adjacencies in the transportation business, for",
+        "more, we had spoken about some of the adjacencies; is there any update over there? has that"
+      ]
+    },
+    "topic_af28f7ca": {
+      "id": "topic_af28f7ca",
+      "canonical_name": "Individual Investors Named Abhishek Agarwal",
+      "description": "Topic containing: abhishek, abhishek agarwal, agarwal",
+      "terms": [
+        "abhishek",
+        "abhishek agarwal",
+        "agarwal"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of abhishek agarwal an individual investor.",
+        "abhishek agarwal: so just wanted to understand in the auto segment. if i take, let's say, u.s. and europe as one",
+        "moderator: thank you. next question comes from the line of abhishek agarwal an individual investor."
+      ]
+    },
+    "topic_abfde4da": {
+      "id": "topic_abfde4da",
+      "canonical_name": "Strategic Partnerships",
+      "description": "Topic containing: partnership, partnerships, our partnerships",
+      "terms": [
+        "partnership",
+        "partnerships",
+        "our partnerships"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "validation platform and is powered by the snapdragon digital chassis platform in partnership",
+        "we have recently announced a strategic partnership with qualcomm, those are also positive",
+        "these partnerships or deals, then we would have seen a massive degrowth in our business."
+      ]
+    },
+    "topic_b3898560": {
+      "id": "topic_b3898560",
+      "canonical_name": "Operational Efficiency and Productivity",
+      "description": "Topic containing: efficiency, productivity, the productivity",
+      "terms": [
+        "efficiency",
+        "productivity",
+        "the productivity"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "levels of growth, efficiency and innovation. we won a large multi-year deal with a u.s.",
+        "through some of the other operating leverage and efficiency that we can bring in towards",
+        "of streamlining our operations and the benefit out of that, and the productivity gains that have"
+      ]
+    },
+    "topic_f31c3307": {
+      "id": "topic_f31c3307",
+      "canonical_name": "Future Trends and Projections",
+      "description": "Topic containing: future, the future, into the future",
+      "terms": [
+        "future",
+        "the future",
+        "into the future"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "accelerate the sdv and future mobility road maps.",
+        "monetization of these? can we see anything on these lines in future?",
+        "by 5g. and this story will continue to unfold into the future. and more interestingly, thanks to"
+      ]
+    },
+    "topic_55014850": {
+      "id": "topic_55014850",
+      "canonical_name": "Transportation and Industry Verticals",
+      "description": "Topic containing: verticals, the verticals, these verticals, both these verticals, vertical",
+      "terms": [
+        "verticals",
+        "the verticals",
+        "these verticals",
+        "both these verticals",
+        "vertical",
+        "transportation vertical",
+        "in transportation",
+        "transportation",
+        "our transportation",
+        "the transportation business",
+        "transportation business",
+        "transportation business for",
+        "the transportation"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the stability and return to growth in the healthcare and media and communication verticals",
+        "and large strategic deals in the pipeline across all our key verticals. with this, we will open the",
+        "deals in both the verticals, plus we also have some deals that we are working on as we speak in"
+      ]
+    },
+    "topic_acfeb45b": {
+      "id": "topic_acfeb45b",
+      "canonical_name": "Financial Analysts",
+      "description": "Topic containing: analysts, the analysts",
+      "terms": [
+        "analysts",
+        "the analysts"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "sub: audio / video recording and transcript of the presentation made to the analysts",
+        "the analysts on january 16, 2025, on the unaudited financial results (consolidated and",
+        "sub: audio / video recording and transcript of the presentation made to the analysts"
+      ]
+    },
+    "topic_d8e77aaa": {
+      "id": "topic_d8e77aaa",
+      "canonical_name": "Technology and Technological Innovations",
+      "description": "Topic containing: technologies, technology",
+      "terms": [
+        "technologies",
+        "technology"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "connected, autonomous and electric technologies. we are delighted to be launching our",
+        "scale, on flexibility, on integration, on newer technologies will remain as we invest in these",
+        "japan, to support their global technology software and engineering development. suzuki's"
+      ]
+    },
+    "topic_47017d4f": {
+      "id": "topic_47017d4f",
+      "canonical_name": "Job Positions Management",
+      "description": "Topic containing: positions, the positions",
+      "terms": [
+        "positions",
+        "the positions"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "contractor that we have to intake in this quarter for some of the positions that require to be",
+        "the travel and the visa front due to the renewals and some of the positions that were required",
+        "contractor that we have to intake in this quarter for some of the positions that require to be"
+      ]
+    },
+    "topic_0032ee65": {
+      "id": "topic_0032ee65",
+      "canonical_name": "Financial Analysts and Investment Professionals",
+      "description": "Topic containing: sulabh, sulabh govila",
+      "terms": [
+        "sulabh",
+        "sulabh govila"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of sulabh govila with morgan stanley. please",
+        "sulabh govila: my first question is with respect to the growth in transportation vertical that we've seen this",
+        "moderator: thank you. next question comes from the line of sulabh govila with morgan stanley. please"
+      ]
+    },
+    "topic_4a745e5b": {
+      "id": "topic_4a745e5b",
+      "canonical_name": "Tariff Policies and Impacts",
+      "description": "Topic containing: tariff, tariffs, the tariff, of the tariff, the tariff hike",
+      "terms": [
+        "tariff",
+        "tariffs",
+        "the tariff",
+        "of the tariff",
+        "the tariff hike",
+        "tariff hike"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "sanjay chawla: so you think the tariff and non-tariff barriers essentially seems to be a way to go as of now?",
+        "19% higher on a year-on-year basis, led by the benefits of the tariff hike. as you can see,",
+        "to the government about tariffs and ensuring that the chinese car companies are not able to"
+      ]
+    },
+    "topic_12c35fb0": {
+      "id": "topic_12c35fb0",
+      "canonical_name": "Causal Explanations",
+      "description": "Topic containing: reason, the reason",
+      "terms": [
+        "reason",
+        "the reason"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "manoj raghavan: so, i think a lot of the reason today for i would say the softness in the automotive market,",
+        "and that is also the reason why i cannot categorically say that automotive markets will",
+        "manoj raghavan: so, i think a lot of the reason today for i would say the softness in the automotive market,"
+      ]
+    },
+    "topic_3a187817": {
+      "id": "topic_3a187817",
+      "canonical_name": "Consumer Market Dynamics",
+      "description": "Topic containing: the consumer, consumer",
+      "terms": [
+        "the consumer",
+        "consumer"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "have announced it in the consumer electronics show, ces, this week. it's avenir, which we",
+        "and specifically, the consumer businesses did well and so did o2c. we had strong sequential",
+        "have announced it in the consumer electronics show, ces, this week. it's avenir, which we"
+      ]
+    },
+    "topic_dd3bec7b": {
+      "id": "topic_dd3bec7b",
+      "canonical_name": "Passenger Vehicle Classification",
+      "description": "Topic containing: passenger car, the passenger car, passenger vehicles",
+      "terms": [
+        "passenger car",
+        "the passenger car",
+        "passenger vehicles"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "just the passenger car companies, but also commercial vehicles, because from a fleet",
+        "sdv play both in the passenger car vehicles as well as in adjacent markets of commercial or",
+        "just the passenger car companies, but also commercial vehicles, because from a fleet"
+      ]
+    },
+    "topic_ae32a1d6": {
+      "id": "topic_ae32a1d6",
+      "canonical_name": "China Market Dynamics",
+      "description": "Topic containing: the china market, china market, china market and, china, in china",
+      "terms": [
+        "the china market",
+        "china market",
+        "china market and",
+        "china",
+        "in china",
+        "the china",
+        "of china"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "manoj raghavan: no, so we are not ignoring the china market. while our customers, oems are competing with",
+        "oems for the china market and so on, right? so, there are various collaborations that are",
+        "companies, they used to make a lot of money in china. and china market used to be pretty big"
+      ]
+    },
+    "topic_c1226427": {
+      "id": "topic_c1226427",
+      "canonical_name": "Collaborative Partnerships",
+      "description": "Topic containing: collaborations, collaboration",
+      "terms": [
+        "collaborations",
+        "collaboration"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "oems for the china market and so on, right? so, there are various collaborations that are",
+        "collaborations with well-known companies in transportation, healthcare and media, including",
+        "there is some amount of collaboration that is happening as we speak. so, i will not be able to"
+      ]
+    },
+    "topic_75eb6316": {
+      "id": "topic_75eb6316",
+      "canonical_name": "Budget Management",
+      "description": "Topic containing: budget, budgets, the budget, the budgets",
+      "terms": [
+        "budget",
+        "budgets",
+        "the budget",
+        "the budgets"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "pause in the budget, that is where we'll have to wait and monitor and see how it progresses.",
+        "distribution further right, increase the budget share this business would increase",
+        "some amount of reprioritization in their near-term ev r&d budgets. long-term ev strategy"
+      ]
+    },
+    "topic_8e192c0d": {
+      "id": "topic_8e192c0d",
+      "canonical_name": "Digital Revenue Streams",
+      "description": "Topic containing: digital revenues, the digital revenues",
+      "terms": [
+        "digital revenues",
+        "the digital revenues"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "of things going on there and some of the digital revenues just about kicking in. subscriber",
+        "very healthy increase in non-connectivity. the digital revenues which grew at 60% year on",
+        "of things going on there and some of the digital revenues just about kicking in. subscriber"
+      ]
+    },
+    "topic_29fd4db7": {
+      "id": "topic_29fd4db7",
+      "canonical_name": "Subscriber Metrics",
+      "description": "Topic containing: million subscribers, subscribers, subscriber",
+      "terms": [
+        "million subscribers",
+        "subscribers",
+        "subscriber"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "3.3 million subscribers during the quarter. two million of these were home connections, so",
+        "subscriber run rate picking up again 3.3 million subscribers getting added in this quarter and",
+        "3.3 million subscribers during the quarter. two million of these were home connections, so"
+      ]
+    },
+    "topic_b7a5e1d5": {
+      "id": "topic_b7a5e1d5",
+      "canonical_name": "Japan and Japanese Entities",
+      "description": "Topic containing: in japan, japan, the japanese, japanese, japanese companies",
+      "terms": [
+        "in japan",
+        "japan",
+        "the japanese",
+        "japanese",
+        "japanese companies"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "quarter has come in from asia pacific region, in japan and so on. so these are all set of new",
+        "manoj raghavan: especially in japan and so on, we don't see that much of an issue with respect to pricing. of",
+        "our strategic business focus on japan, emerging markets and capitalizing on the india"
+      ]
+    },
+    "topic_431db318": {
+      "id": "topic_431db318",
+      "canonical_name": "Electric Vehicles (EVs)",
+      "description": "Topic containing: evs, the ev",
+      "terms": [
+        "evs",
+        "the ev"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "by 2030, what is the outlook? i would say, especially if evs pick up, definitely there will be",
+        "with the chinese oems now launching evs that are at par or even better than some of the",
+        "in the west, are you seeing some of the ev platforms or the software platforms being"
+      ]
+    },
+    "topic_db68a8cd": {
+      "id": "topic_db68a8cd",
+      "canonical_name": "Corporate Acquisitions",
+      "description": "Topic containing: acquired, acquisition",
+      "terms": [
+        "acquired",
+        "acquisition"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "there has to be a rationale why we acquired a company, and it has to result in positive business",
+        "acquired sites, to address the strong festive demand that we saw. and also, by having a",
+        "nitesh: okay. i just have one more follow-up question. so are you looking for any acquisition"
+      ]
+    },
+    "topic_08dd33bd": {
+      "id": "topic_08dd33bd",
+      "canonical_name": "Top Thousand Demographics",
+      "description": "Topic containing: top thousand, the top thousand",
+      "terms": [
+        "top thousand",
+        "the top thousand"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "up demand, unlocked demand or pent-up demand from beyond what we call the top thousand",
+        "now starting to come from beyond the top thousand towns and cities.",
+        "up demand, unlocked demand or pent-up demand from beyond what we call the top thousand"
+      ]
+    },
+    "topic_03bd6afe": {
+      "id": "topic_03bd6afe",
+      "canonical_name": "Wedding and Festive Seasons",
+      "description": "Topic containing: the wedding, wedding, the wedding season, wedding season, festive and wedding",
+      "terms": [
+        "the wedding",
+        "wedding",
+        "the wedding season",
+        "wedding season",
+        "festive and wedding"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "basis. part of the growth came from the festive season and the wedding season, but also a",
+        "towards the towards the wedding season, and we have done multiple phases of that, you",
+        "delivering the highest ever sales. digital again benefited from the festive and wedding season"
+      ]
+    },
+    "topic_a0b40baa": {
+      "id": "topic_a0b40baa",
+      "canonical_name": "Cubic Meter Measurement in Production",
+      "description": "Topic containing: in cbm, cbm",
+      "terms": [
+        "in cbm",
+        "cbm"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "basis points to 87.4%. the key drivers, we saw an uptick in cbm production based on",
+        "slightly higher values, which is $9.74. in cbm, we realized about 10.58, which is lower, but",
+        "basis points to 87.4%. the key drivers, we saw an uptick in cbm production based on"
+      ]
+    },
+    "topic_afdb8876": {
+      "id": "topic_afdb8876",
+      "canonical_name": "Cubic Meter Measurements",
+      "description": "Topic containing: cubic meters and, cubic meters, standard cubic meters, cubic",
+      "terms": [
+        "cubic meters and",
+        "cubic meters",
+        "standard cubic meters",
+        "cubic"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "28.0 4 million standard cubic meters and about 21,000 barrels of condensate per day.",
+        "are seeing a production of about 0.35 million standard cubic meters, which is quite",
+        "28.0 4 million standard cubic meters and about 21,000 barrels of condensate per day."
+      ]
+    },
+    "topic_221c9480": {
+      "id": "topic_221c9480",
+      "canonical_name": "Sales and Promotions",
+      "description": "Topic containing: sale, sales",
+      "terms": [
+        "sale",
+        "sales"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "saucony being some of the few. the black friday sale event, we had strong performance.",
+        "is a big positive for the business. the tyohaar ready sale, a marquee property that we have",
+        "few months with oems, especially in the u.s. and europe reporting sales and growth"
+      ]
+    },
+    "topic_8a39d551": {
+      "id": "topic_8a39d551",
+      "canonical_name": "Business Operations Management",
+      "description": "Topic containing: operations, our operating",
+      "terms": [
+        "operations",
+        "our operating"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our revenues from operations were reported at inr939.2 crores. during the quarter, ebitda",
+        "of streamlining our operations and the benefit out of that, and the productivity gains that have",
+        "that ai story across our operating companies in the reliance group. and of course, on the"
+      ]
+    },
+    "topic_91c55e1e": {
+      "id": "topic_91c55e1e",
+      "canonical_name": "Economic Slowdown",
+      "description": "Topic containing: a slowdown, slowdown",
+      "terms": [
+        "a slowdown",
+        "slowdown"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "you are showing seeing a slowdown, or is it continuing at the similar pace as what was",
+        "which is europe for us is definitely, we are seeing a slowdown. we will get a better clarity",
+        "you are showing seeing a slowdown, or is it continuing at the similar pace as what was"
+      ]
+    },
+    "topic_f21d0a75": {
+      "id": "topic_f21d0a75",
+      "canonical_name": "Financial Year Terminology",
+      "description": "Topic containing: next financial year, financial year, this financial year",
+      "terms": [
+        "next financial year",
+        "financial year",
+        "this financial year"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "coming quarter and also for the next financial year considering the various challenges what we",
+        "will drive our growth in the transportation business for the next financial year. now whether",
+        "fourth quarter of this financial year with confidence of large automotive deal wins in the year"
+      ]
+    },
+    "topic_4a0a8993": {
+      "id": "topic_4a0a8993",
+      "canonical_name": "Dependence on JLR (Jaguar Land Rover)",
+      "description": "Topic containing: on jlr, jlr",
+      "terms": [
+        "on jlr",
+        "jlr"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "much are we dependent on jlr? so, from the oem perspective, are we heavily concentrated",
+        "ensured that our dependence on jlr as an account has actually come down. i'm happy with the",
+        "much are we dependent on jlr? so, from the oem perspective, are we heavily concentrated"
+      ]
+    },
+    "topic_c849f60d": {
+      "id": "topic_c849f60d",
+      "canonical_name": "Japanese Market Dynamics",
+      "description": "Topic containing: japanese market, the japanese market",
+      "terms": [
+        "japanese market",
+        "the japanese market"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "an uptick happening in the japanese market and the apac market. so there is some movement",
+        "that is happening more towards the apac and the japanese market, which gets compensated",
+        "an uptick happening in the japanese market and the apac market. so there is some movement"
+      ]
+    },
+    "topic_1334d061": {
+      "id": "topic_1334d061",
+      "canonical_name": "Third Quarter Financial Reporting",
+      "description": "Topic containing: the third quarter, third quarter, third quarter of",
+      "terms": [
+        "the third quarter",
+        "third quarter",
+        "third quarter of"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "very happy to welcome you to the third quarter of financial year 2025 business presentation",
+        "we also had more than 2 million connects in a single quarter in the third quarter of fy25,",
+        "happy to report that we have delivered a steady third quarter in terms of top line in a seasonally"
+      ]
+    },
+    "topic_9b78e9ef": {
+      "id": "topic_9b78e9ef",
+      "canonical_name": "Market Differentiation Strategies",
+      "description": "Topic containing: differentiator, differentiation, a differentiation",
+      "terms": [
+        "differentiator",
+        "differentiation",
+        "a differentiation"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "the fact that we have this superlative true 5g network, which is a big differentiator vis-\u00e0-vis",
+        "largest service organization for electronics and our biggest differentiator, that continues to",
+        "exclusive on the platform, and they do provide us a differentiation as well as better economics"
+      ]
+    },
+    "topic_5087a416": {
+      "id": "topic_5087a416",
+      "canonical_name": "Cloud Computing Solutions",
+      "description": "Topic containing: jiocloudpc, cloud pc",
+      "terms": [
+        "jiocloudpc",
+        "cloud pc"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "so now we showcased a solution called jiocloudpc which is effectively, and i'll talk about",
+        "this up to every jio customer and beyond the jiocloudpc that i mentioned earlier.",
+        "and effectively your set top box and your tv in combination with the cloud pc doubles up as"
+      ]
+    },
+    "topic_28e66656": {
+      "id": "topic_28e66656",
+      "canonical_name": "Wage Increases",
+      "description": "Topic containing: wage hike, wage hikes, the wage hike, the wage hikes",
+      "terms": [
+        "wage hike",
+        "wage hikes",
+        "the wage hike",
+        "the wage hikes"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "wage hike impact was almost 100 basis points, but that was also compensated and mitigated",
+        "movement helped in terms of the reduction in the cost. so, most of the wage hike has been",
+        "this quarter also intakes the wage hikes that has been done by the company, which completes"
+      ]
+    },
+    "topic_77c61dd5": {
+      "id": "topic_77c61dd5",
+      "canonical_name": "Annualized Financial Metrics",
+      "description": "Topic containing: annualized, per annum",
+      "terms": [
+        "annualized",
+        "per annum"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "continue to do well with attrition remaining low at 12.4% during the quarter on an annualized",
+        "year. the annualized run rate has crossed 15,000 crores and this we are seeing very healthy",
+        "tons per annum of supplies. overall, in the short term, we expect prices to remain firm. there"
+      ]
+    },
+    "topic_377dffaa": {
+      "id": "topic_377dffaa",
+      "canonical_name": "Workforce Management",
+      "description": "Topic containing: workforce, employees, employee, employee base",
+      "terms": [
+        "workforce",
+        "employees",
+        "employee",
+        "employee base"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "those third-party contracts with the internal workforce. also, some increase has happened on",
+        "again, how do you train beyond primary education? but once you get into the workforce, how",
+        "which the full impact of salary increases for all our employees was seen. margins in the"
+      ]
+    },
+    "topic_01d1a005": {
+      "id": "topic_01d1a005",
+      "canonical_name": "Investment Strategies and Practices",
+      "description": "Topic containing: investments, investment",
+      "terms": [
+        "investments",
+        "investment"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "and we are hoping that whatever investments which we make will help the western oems",
+        "say, very resilient and with also lower volatility. and the investments that we made in light",
+        "moderator: next question comes from the line of jalaj with svan investment. please go ahead."
+      ]
+    },
+    "topic_2c72109c": {
+      "id": "topic_2c72109c",
+      "canonical_name": "KGD6 Gas Production and Revenue",
+      "description": "Topic containing: from kgd6, in kgd6, kgd6",
+      "terms": [
+        "from kgd6",
+        "in kgd6",
+        "kgd6"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "oil and gas, steady quarter, revenues slightly lower because of lower volumes from kgd6",
+        "so overall, we still remain a material contributor. we are from kgd6, we are generating",
+        "saw, otherwise even on o2c, marginal improvement in kgd6 gas price realisation, you"
+      ]
+    },
+    "topic_41648312": {
+      "id": "topic_41648312",
+      "canonical_name": "Growth Trajectories",
+      "description": "Topic containing: high growth, strong growth, very strong growth",
+      "terms": [
+        "high growth",
+        "strong growth",
+        "very strong growth"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "war. also, the continuing focus on the high growth domestic market in the domestic",
+        "against this backdrop our strategy has always been to invest in high growth our domestic",
+        "tax of rs 3500 crores. so, as you can see, very strong growth sequentially, as well as on a"
+      ]
+    },
+    "topic_bbc62161": {
+      "id": "topic_bbc62161",
+      "canonical_name": "Product Offerings and Beta Releases",
+      "description": "Topic containing: offering, a beta offering, beta offering",
+      "terms": [
+        "offering",
+        "a beta offering",
+        "beta offering"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "we made an announcement and now it is available through a beta offering called ai cloud,",
+        "which is again an offering for the consumer. so that was also announced and showcased",
+        "we made an announcement and now it is available through a beta offering called ai cloud,"
+      ]
+    },
+    "topic_97cfdadc": {
+      "id": "topic_97cfdadc",
+      "canonical_name": "Individuals Named Shyam Ramakrishnan",
+      "description": "Topic containing: ramakrishnan, shyam ramakrishnan",
+      "terms": [
+        "ramakrishnan",
+        "shyam ramakrishnan"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of shyam ramakrishnan, an individual",
+        "shyam ramakrishnan: in the previous con call, it was mentioned that it was difficult to exit it might be difficult to",
+        "moderator: thank you. next question comes from the line of shyam ramakrishnan, an individual"
+      ]
+    },
+    "topic_fe940669": {
+      "id": "topic_fe940669",
+      "canonical_name": "Conference Call Terminology",
+      "description": "Topic containing: this conference, the conference",
+      "terms": [
+        "this conference",
+        "the conference"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "on your touch-tone phone. please note that this conference is being recorded.",
+        "moderator: thank you. on behalf of tata elxsi, that concludes this conference. thank you for joining us.",
+        "need assistance during the conference call, please signal an operator by pressing star then zero"
+      ]
+    },
+    "topic_6a8e39b8": {
+      "id": "topic_6a8e39b8",
+      "canonical_name": "Quarterly Financial Performance",
+      "description": "Topic containing: previous quarter, the previous quarter",
+      "terms": [
+        "previous quarter",
+        "the previous quarter"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "it is important to mention here that our margins in the previous quarter were aided by onetime",
+        "about $744 million, or about rs 6370 crores, which is a slight upside from the previous quarter",
+        "it is important to mention here that our margins in the previous quarter were aided by onetime"
+      ]
+    },
+    "topic_8dba98dd": {
+      "id": "topic_8dba98dd",
+      "canonical_name": "Indian Rupee Financial Terminology",
+      "description": "Topic containing: inr1, inr1 crores",
+      "terms": [
+        "inr1",
+        "inr1 crores"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "quarter and there's a dip in the depreciation and the finance cost of another inr1.5 crores. so,",
+        "considering the cash we have on the books of around inr1,000 crores. and the second is how"
+      ]
+    },
+    "topic_08f0adaf": {
+      "id": "topic_08f0adaf",
+      "canonical_name": "Three Buckets Framework",
+      "description": "Topic containing: the three buckets, three buckets",
+      "terms": [
+        "the three buckets",
+        "three buckets"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "ups have happened to the extent that we would want to, right? and those are the three buckets",
+        "moving parts and the three buckets that you mentioned, a decent acceleration from the current",
+        "ups have happened to the extent that we would want to, right? and those are the three buckets"
+      ]
+    },
+    "topic_ed2d8cd1": {
+      "id": "topic_ed2d8cd1",
+      "canonical_name": "Top Line Financial Performance",
+      "description": "Topic containing: our top line, top line",
+      "terms": [
+        "our top line",
+        "top line"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "billability and that stems from growing our top line. and along with growth, the margin",
+        "our billability and utilization, and that will come from improving our top line. so there are",
+        "happy to report that we have delivered a steady third quarter in terms of top line in a seasonally"
+      ]
+    },
+    "topic_c8d14b8e": {
+      "id": "topic_c8d14b8e",
+      "canonical_name": "Cash Management and Financial Reporting",
+      "description": "Topic containing: cash, the cash",
+      "terms": [
+        "cash",
+        "the cash"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "considering the cash we have on the books of around inr1,000 crores. and the second is how",
+        "rs.32,000 crores, well below the cash profits of rs.38,000 that you know, this quarter, we",
+        "considering the cash we have on the books of around inr1,000 crores. and the second is how"
+      ]
+    },
+    "topic_a366b1d4": {
+      "id": "topic_a366b1d4",
+      "canonical_name": "Post-Tax Profit Metrics",
+      "description": "Topic containing: profit after tax, profit after",
+      "terms": [
+        "profit after tax",
+        "profit after"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "revenue growth, ebitda growth at close to 8%, and pat (profit after tax) growth close to",
+        "ebitda margin at 50.1% and profit after tax at 6,857 crore that was a healthy 26% year on",
+        "revenue growth, ebitda growth at close to 8%, and pat (profit after tax) growth close to"
+      ]
+    },
+    "topic_f277ca6e": {
+      "id": "topic_f277ca6e",
+      "canonical_name": "Pan India Network Infrastructure",
+      "description": "Topic containing: india network, pan india network, pan india",
+      "terms": [
+        "india network",
+        "pan india network",
+        "pan india"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "already had the pan india network up and running for the past many quarters. and now,",
+        "so, the combination of having that pan india network available and the increasing adoption",
+        "already had the pan india network up and running for the past many quarters. and now,"
+      ]
+    },
+    "topic_e00d0284": {
+      "id": "topic_e00d0284",
+      "canonical_name": "Mothercare Brand and Business",
+      "description": "Topic containing: the mothercare, mothercare",
+      "terms": [
+        "the mothercare",
+        "mothercare"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "where we own majority stake in the spv, which owns the mothercare brand for the indian",
+        "store in italy, and we continue to expand in new markets. we spoke about the mothercare",
+        "also, in order to further strengthen the ip, we have done a joint venture with mothercare plc,"
+      ]
+    },
+    "topic_74995055": {
+      "id": "topic_74995055",
+      "canonical_name": "Polyvinyl Chloride (PVC) Market Dynamics",
+      "description": "Topic containing: for pvc, pvc",
+      "terms": [
+        "for pvc",
+        "pvc"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "specifically, for pvc our actions have been on, freight cost reduction, emphasis on premium",
+        "the demand for pvc will continue to be supported because of agri and infrastructure growth.",
+        "and atf were up 11% to 13%, polypropylene prices were up by 5% and pvc by 4%. so, all"
+      ]
+    },
+    "topic_0f2f9b08": {
+      "id": "topic_0f2f9b08",
+      "canonical_name": "Investment Strategies and Practices",
+      "description": "Topic containing: investing, have been investing, invest",
+      "terms": [
+        "investing",
+        "have been investing",
+        "invest"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "manoj raghavan: so yes, i think tata elxsi has been investing in building our own sdv framework. and we",
+        "ad/adas, of course, it's another area that we have been investing for quite a few years now.",
+        "ad/adas, of course, it's another area that we have been investing for quite a few years now."
+      ]
+    },
+    "topic_c077bc02": {
+      "id": "topic_c077bc02",
+      "canonical_name": "Government and Governance",
+      "description": "Topic containing: the government, government",
+      "terms": [
+        "the government",
+        "government"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "to the government about tariffs and ensuring that the chinese car companies are not able to",
+        "pressure on the government to take certain actions to ensure that the jobs are protected in those",
+        "vijay pandey: i just wanted to understand about the u.s. market. so after the new government is in place, are"
+      ]
+    },
+    "topic_f18ffbe0": {
+      "id": "topic_f18ffbe0",
+      "canonical_name": "Differential Analysis in Financial Contexts",
+      "description": "Topic containing: differential, the differential",
+      "terms": [
+        "differential",
+        "the differential"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "impact on our margins. so, most of the differential margins that you see from the last quarter",
+        "for 2 reasons. one, due to the differential in the deferred tax asset because of reduction in the",
+        "impact on our margins. so, most of the differential margins that you see from the last quarter"
+      ]
+    },
+    "topic_89b305af": {
+      "id": "topic_89b305af",
+      "canonical_name": "Annual Reporting Periods",
+      "description": "Topic containing: full year, the full year",
+      "terms": [
+        "full year",
+        "the full year"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "for the full year. i think we stated at the start of the year that most of our sez unit has come",
+        "may exit the full year at an effective tax rate of something between 24.5% to 25%.",
+        "for the full year. i think we stated at the start of the year that most of our sez unit has come"
+      ]
+    },
+    "topic_4c3a6184": {
+      "id": "topic_4c3a6184",
+      "canonical_name": "Priority Management",
+      "description": "Topic containing: priority, the priority",
+      "terms": [
+        "priority",
+        "the priority"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "think manoj also mentioned during the previous question that the priority for us is to improve",
+        "states. the focus here is three pronged expand distribution in the priority states, strengthen",
+        "think manoj also mentioned during the previous question that the priority for us is to improve"
+      ]
+    },
+    "topic_a8ba6f71": {
+      "id": "topic_a8ba6f71",
+      "canonical_name": "Jio AirFiber Technology",
+      "description": "Topic containing: the jio airfiber, jio airfiber, airfiber",
+      "terms": [
+        "the jio airfiber",
+        "jio airfiber",
+        "airfiber"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "as the jio airfiber connect that we saw. flat in terms of net debt, you can see that, you know,",
+        "with an increasing run rate the jio airfiber product has been very successful in the market.",
+        "as the jio airfiber connect that we saw. flat in terms of net debt, you can see that, you know,"
+      ]
+    },
+    "topic_ff68154e": {
+      "id": "topic_ff68154e",
+      "canonical_name": "Business Performance Metrics",
+      "description": "Topic containing: increasing run rate, run rate",
+      "terms": [
+        "increasing run rate",
+        "run rate"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "with an increasing run rate the jio airfiber product has been very successful in the market.",
+        "trend that we had seen in the last quarter and an increasing run rate of customer addition.",
+        "perspective, we definitely want to push all levers to really exit q4 with a decent run rate. so"
+      ]
+    },
+    "topic_9efb29df": {
+      "id": "topic_9efb29df",
+      "canonical_name": "Delivery Services",
+      "description": "Topic containing: deliveries, express deliveries",
+      "terms": [
+        "deliveries",
+        "express deliveries"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "basis. this time we started express deliveries pilot in about 4000 pin codes and continuing",
+        "healthy lfls growing, as well as our online express deliveries business is also scaling up",
+        "basis. this time we started express deliveries pilot in about 4000 pin codes and continuing"
+      ]
+    },
+    "topic_c57b853b": {
+      "id": "topic_c57b853b",
+      "canonical_name": "Private Label Brands",
+      "description": "Topic containing: own brands, our own brands",
+      "terms": [
+        "own brands",
+        "our own brands"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "our own brands business continues to launch new products. there were several launches",
+        "on all these formats during this quarter. our own brands continue to grow, and their share",
+        "our own brands business continues to launch new products. there were several launches"
+      ]
+    },
+    "topic_42733a7b": {
+      "id": "topic_42733a7b",
+      "canonical_name": "Opportunities in Professional Contexts",
+      "description": "Topic containing: opportunity, opportunities",
+      "terms": [
+        "opportunity",
+        "opportunities"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "will be an opportunity for you to ask questions after the presentation concludes. should you",
+        "participants an opportunity to interact. if you have any further questions, you may join the",
+        "quarter or so. however, we're seeing a lot of good opportunities in asia, in india as well as in"
+      ]
+    },
+    "topic_a591d397": {
+      "id": "topic_a591d397",
+      "canonical_name": "Chinese Automotive Industry",
+      "description": "Topic containing: chinese car, the chinese car",
+      "terms": [
+        "chinese car",
+        "the chinese car"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "how the oems are able to compete effectively with the chinese car companies and grow their",
+        "to the government about tariffs and ensuring that the chinese car companies are not able to",
+        "how the oems are able to compete effectively with the chinese car companies and grow their"
+      ]
+    },
+    "topic_a98b0958": {
+      "id": "topic_a98b0958",
+      "canonical_name": "Aerospace Industry",
+      "description": "Topic containing: aerospace and, aerospace",
+      "terms": [
+        "aerospace and",
+        "aerospace"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "manoj raghavan: sure, absolutely. so, as i said, we are building our avionics and aerospace and defence",
+        "taken a bit of a back seat? how should we look at that? i mean rail, maybe aerospace or",
+        "you have set up with csir national aerospace, and how big can the opportunity be? if you"
+      ]
+    },
+    "topic_b5397b91": {
+      "id": "topic_b5397b91",
+      "canonical_name": "Record Sales Achievements",
+      "description": "Topic containing: the highest ever, highest ever sales",
+      "terms": [
+        "the highest ever",
+        "highest ever sales"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "delivering the highest ever sales. digital again benefited from the festive and wedding season",
+        "continue to scale well, and the customer adoption is strong. we had the highest ever sales",
+        "delivering the highest ever sales. digital again benefited from the festive and wedding season"
+      ]
+    },
+    "topic_b412fb3a": {
+      "id": "topic_b412fb3a",
+      "canonical_name": "Wage Adjustments",
+      "description": "Topic containing: hikes, hike",
+      "terms": [
+        "hikes",
+        "hike"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "this quarter also intakes the wage hikes that has been done by the company, which completes",
+        "the wage hikes cycle for the company at overall employee base for this financial year. the",
+        "wage hike impact was almost 100 basis points, but that was also compensated and mitigated"
+      ]
+    },
+    "topic_ed40117e": {
+      "id": "topic_ed40117e",
+      "canonical_name": "Artificial Intelligence Cloud Services",
+      "description": "Topic containing: ai cloud, jio ai cloud",
+      "terms": [
+        "ai cloud",
+        "jio ai cloud"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "we made an announcement and now it is available through a beta offering called ai cloud,",
+        "now coming to the jio ai cloud offering that i spoke about. this is really a combination of",
+        "now coming to the jio ai cloud offering that i spoke about. this is really a combination of"
+      ]
+    },
+    "topic_ec7e4e96": {
+      "id": "topic_ec7e4e96",
+      "canonical_name": "Super Luxury Market Segment",
+      "description": "Topic containing: super luxury, the super luxury, super luxury segment, luxury segment",
+      "terms": [
+        "super luxury",
+        "the super luxury",
+        "super luxury segment",
+        "luxury segment"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "we continue to expand our partnerships. so, to address the super luxury segment in india,",
+        "india franchise for saks fifth avenue to target the super luxury segment. in addition, the ips",
+        "we continue to expand our partnerships. so, to address the super luxury segment in india,"
+      ]
+    },
+    "topic_85ce1777": {
+      "id": "topic_85ce1777",
+      "canonical_name": "Three-Year Performance Analysis",
+      "description": "Topic containing: last three, last three years, three years",
+      "terms": [
+        "last three",
+        "last three years",
+        "three years"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "so yes, even if you were to look in the longer-term perspective, last three years demand",
+        "have demonstrated last three years about 8% growth. but again, looking into the future, it",
+        "so yes, even if you were to look in the longer-term perspective, last three years demand"
+      ]
+    },
+    "topic_bbcc4e57": {
+      "id": "topic_bbcc4e57",
+      "canonical_name": "Media and Communication Industries",
+      "description": "Topic containing: the media and, the media",
+      "terms": [
+        "the media and",
+        "the media"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "sulabh govila: okay. understood. and then secondly, with respect to both the media and the healthcare",
+        "battery passport. in the media and communication vertical also, we talked about a number of",
+        "positioned well to help customers in the media, entertainment and telecom industry on all 3"
+      ]
+    },
+    "topic_8b7e502c": {
+      "id": "topic_8b7e502c",
+      "canonical_name": "Company-Level Analysis",
+      "description": "Topic containing: company level, the company level",
+      "terms": [
+        "company level",
+        "the company level"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "you're not seeing that. yes, at the company level, you may not see that because of certain",
+        "revenue mix from the geo at the company level, but we can give you a little bit qualitative",
+        "you're not seeing that. yes, at the company level, you may not see that because of certain"
+      ]
+    },
+    "topic_5f8251ee": {
+      "id": "topic_5f8251ee",
+      "canonical_name": "Business Scaling Strategies",
+      "description": "Topic containing: scaling, scale",
+      "terms": [
+        "scaling",
+        "scale"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "down the subsidies of credit and scaling back ev penetration targets. because all feels you",
+        "healthy lfls growing, as well as our online express deliveries business is also scaling up",
+        "deep digital and software expertise and scale talent base to help global oem shift left and"
+      ]
+    },
+    "topic_e5cdf446": {
+      "id": "topic_e5cdf446",
+      "canonical_name": "Inquiry Phrasing in Dialogue",
+      "description": "Topic containing: one question, have one question",
+      "terms": [
+        "one question",
+        "have one question"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "vijay pandey: thank you for taking my questions. i have one question. i just wanted to understand like the",
+        "ajay jain: thank you very much for taking my question. i have one question. there have been many",
+        "vijay pandey: thank you for taking my questions. i have one question. i just wanted to understand like the"
+      ]
+    },
+    "topic_95665c5d": {
+      "id": "topic_95665c5d",
+      "canonical_name": "Emerging Government Dynamics",
+      "description": "Topic containing: new government, the new government",
+      "terms": [
+        "new government",
+        "the new government"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "vijay pandey: i just wanted to understand about the u.s. market. so after the new government is in place, are",
+        "manoj raghavan: and with the new government of trump coming in, what is that impact, right? so, i think for",
+        "vijay pandey: i just wanted to understand about the u.s. market. so after the new government is in place, are"
+      ]
+    },
+    "topic_0673fbbf": {
+      "id": "topic_0673fbbf",
+      "canonical_name": "Quarterly Performance Analysis",
+      "description": "Topic containing: two quarters, last two quarters",
+      "terms": [
+        "two quarters",
+        "last two quarters"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "seen, let's say, compared to last two quarters, then is this lower growth more a function of the",
+        "already played through in the last two quarters but full impact still playing out. as most of you",
+        "seen, let's say, compared to last two quarters, then is this lower growth more a function of the"
+      ]
+    },
+    "topic_89eb1e50": {
+      "id": "topic_89eb1e50",
+      "canonical_name": "Kanchi Shah and MC Research",
+      "description": "Topic containing: kanchi shah, shah",
+      "terms": [
+        "kanchi shah",
+        "shah"
+      ],
+      "parent_topic_id": null,
+      "children": [],
+      "sample_contexts": [
+        "moderator: thank you. next question comes from the line of kanchi shah with mc research. please go",
+        "kanchi shah: so i had a question on automotive. so can you please guide us like how much does the u.s.,",
+        "moderator: thank you. next question comes from the line of kanchi shah with mc research. please go"
+      ]
+    }
+  },
+  "term_to_topic": {
+    "transcript": "topic_6a8942cc",
+    "the transcript": "topic_6a8942cc",
+    "in the cloud": "topic_34a3f09c",
+    "the cloud": "topic_34a3f09c",
+    "cloud": "topic_34a3f09c",
+    "sriram": "topic_d763b27c",
+    "sriram company secretary": "topic_d763b27c",
+    "cauveri": "topic_dca422d6",
+    "ms cauveri": "topic_dca422d6",
+    "cauveri sriram": "topic_dca422d6",
+    "ms cauveri sriram": "topic_dca422d6",
+    "video": "topic_c014c4e9",
+    "video recording": "topic_c014c4e9",
+    "recording": "topic_c014c4e9",
+    "audio video recording": "topic_c014c4e9",
+    "audio video": "topic_c014c4e9",
+    "automotive market": "topic_85a9c17a",
+    "the automotive market": "topic_85a9c17a",
+    "the automotive": "topic_85a9c17a",
+    "in the automotive": "topic_85a9c17a",
+    "automotive": "topic_85a9c17a",
+    "automotive industry": "topic_85a9c17a",
+    "the automotive industry": "topic_85a9c17a",
+    "automotive segment": "topic_85a9c17a",
+    "the automotive segment": "topic_85a9c17a",
+    "auto": "topic_85a9c17a",
+    "autos": "topic_85a9c17a",
+    "the auto": "topic_85a9c17a",
+    "automobile": "topic_85a9c17a",
+    "vehicles": "topic_85a9c17a",
+    "vehicle": "topic_85a9c17a",
+    "automobiles": "topic_85a9c17a",
+    "the automobile": "topic_85a9c17a",
+    "in the auto": "topic_85a9c17a",
+    "cars": "topic_85a9c17a",
+    "car": "topic_85a9c17a",
+    "store": "topic_bb71e4c7",
+    "stores": "topic_bb71e4c7",
+    "dinesh": "topic_6c757466",
+    "dinesh taluja": "topic_6c757466",
+    "sh dinesh taluja": "topic_6c757466",
+    "taluja reliance": "topic_6c757466",
+    "taluja reliance retail": "topic_6c757466",
+    "reliance retail": "topic_6c757466",
+    "dinesh taluja reliance": "topic_6c757466",
+    "western": "topic_ab4b675f",
+    "the western": "topic_ab4b675f",
+    "western world": "topic_ab4b675f",
+    "the western world": "topic_ab4b675f",
+    "margin": "topic_0fa7edbd",
+    "margins": "topic_0fa7edbd",
+    "margin levels": "topic_0fa7edbd",
+    "call": "topic_f87953b5",
+    "the call": "topic_f87953b5",
+    "conference call": "topic_f87953b5",
+    "ebitda": "topic_84ad0295",
+    "the ebitda": "topic_84ad0295",
+    "ebitda growth": "topic_84ad0295",
+    "ebitda came in": "topic_84ad0295",
+    "and ebitda": "topic_84ad0295",
+    "segment ebitda": "topic_84ad0295",
+    "quarter ebitda": "topic_84ad0295",
+    "ebitda margin at": "topic_84ad0295",
+    "ebitda margins": "topic_84ad0295",
+    "ebitda margin": "topic_84ad0295",
+    "ebitda came": "topic_84ad0295",
+    "in growth": "topic_96deed72",
+    "growth in": "topic_96deed72",
+    "show growth": "topic_96deed72",
+    "this growth": "topic_96deed72",
+    "increase in": "topic_96deed72",
+    "basis points to": "topic_9d8f4d43",
+    "basis points": "topic_9d8f4d43",
+    "basis point": "topic_9d8f4d43",
+    "indian": "topic_8c0bf6b1",
+    "the indian": "topic_8c0bf6b1",
+    "the indian market": "topic_8c0bf6b1",
+    "indian market": "topic_8c0bf6b1",
+    "business": "topic_e68092c8",
+    "the business": "topic_e68092c8",
+    "businesses": "topic_e68092c8",
+    "this business": "topic_e68092c8",
+    "enterprises": "topic_e68092c8",
+    "enterprise": "topic_e68092c8",
+    "companies": "topic_e68092c8",
+    "our businesses": "topic_e68092c8",
+    "a company": "topic_e68092c8",
+    "market": "topic_628996ca",
+    "markets": "topic_628996ca",
+    "the market": "topic_628996ca",
+    "major markets": "topic_628996ca",
+    "ritesh": "topic_a1068786",
+    "ritesh poladia": "topic_a1068786",
+    "srinivasan": "topic_1a4fd29d",
+    "b srinivasan": "topic_1a4fd29d",
+    "sh b srinivasan": "topic_1a4fd29d",
+    "quarter": "topic_c4fec5f8",
+    "the quarter": "topic_c4fec5f8",
+    "the last quarter": "topic_c4fec5f8",
+    "last quarter": "topic_c4fec5f8",
+    "in q4": "topic_c4fec5f8",
+    "vimal gohil": "topic_92e1cf58",
+    "vimal jamnadas gohil": "topic_92e1cf58",
+    "vimal": "topic_92e1cf58",
+    "vimal jamnadas": "topic_92e1cf58",
+    "jamnadas gohil": "topic_92e1cf58",
+    "the near term": "topic_955d9d98",
+    "near term": "topic_955d9d98",
+    "near term outlook": "topic_955d9d98",
+    "the short term": "topic_955d9d98",
+    "short term": "topic_955d9d98",
+    "for reliance": "topic_96e634f7",
+    "reliance": "topic_96e634f7",
+    "reliance industries": "topic_96e634f7",
+    "reliance industries limited": "topic_96e634f7",
+    "oems": "topic_170d8d3b",
+    "oem": "topic_170d8d3b",
+    "the oems": "topic_170d8d3b",
+    "the oem": "topic_170d8d3b",
+    "the chinese companies": "topic_170d8d3b",
+    "chinese companies": "topic_170d8d3b",
+    "the chinese oems": "topic_170d8d3b",
+    "chinese oems": "topic_170d8d3b",
+    "the chinese": "topic_170d8d3b",
+    "chinese": "topic_170d8d3b",
+    "chinese oems and": "topic_170d8d3b",
+    "from oems": "topic_170d8d3b",
+    "revenues from oems": "topic_170d8d3b",
+    "the western oems": "topic_170d8d3b",
+    "western oems": "topic_170d8d3b",
+    "chinese car companies": "topic_170d8d3b",
+    "for tata elxsi": "topic_31b99c9b",
+    "tata elxsi": "topic_31b99c9b",
+    "tata elxsi is": "topic_31b99c9b",
+    "tata elxsi limited": "topic_31b99c9b",
+    "elxsi limited": "topic_31b99c9b",
+    "elxsi": "topic_31b99c9b",
+    "of tata elxsi": "topic_31b99c9b",
+    "tataelxsi": "topic_31b99c9b",
+    "tata": "topic_31b99c9b",
+    "of tata": "topic_31b99c9b",
+    "availability": "topic_0f84ed1e",
+    "supply": "topic_0f84ed1e",
+    "u s market": "topic_ff1f8a7e",
+    "u s": "topic_ff1f8a7e",
+    "market for us": "topic_ff1f8a7e",
+    "u s geography": "topic_ff1f8a7e",
+    "the us": "topic_ff1f8a7e",
+    "customers": "topic_de9ab729",
+    "customer": "topic_de9ab729",
+    "those customers": "topic_de9ab729",
+    "customer base": "topic_de9ab729",
+    "customer mix": "topic_de9ab729",
+    "improving customer mix": "topic_de9ab729",
+    "investor": "topic_33ca0d3e",
+    "investors": "topic_33ca0d3e",
+    "individual investor": "topic_33ca0d3e",
+    "an individual investor": "topic_33ca0d3e",
+    "investors conference call": "topic_33ca0d3e",
+    "earnings conference": "topic_83a4f12a",
+    "earnings conference call": "topic_83a4f12a",
+    "q3 fy": "topic_20a79665",
+    "q3 fy earnings": "topic_20a79665",
+    "coming quarter": "topic_20a79665",
+    "next quarter": "topic_20a79665",
+    "coming quarters": "topic_20a79665",
+    "the next quarter": "topic_20a79665",
+    "the coming quarters": "topic_20a79665",
+    "subsequent quarters": "topic_20a79665",
+    "the subsequent quarters": "topic_20a79665",
+    "srikanth consolidated financials": "topic_4992e417",
+    "consolidated financials": "topic_4992e417",
+    "revenues": "topic_6a74e636",
+    "revenue": "topic_6a74e636",
+    "revenues from": "topic_6a74e636",
+    "our revenues": "topic_6a74e636",
+    "our revenues from": "topic_6a74e636",
+    "operating revenues": "topic_6a74e636",
+    "thomas digital": "topic_476f4c70",
+    "thomas digital services": "topic_476f4c70",
+    "kiran thomas digital": "topic_997b0166",
+    "kiran thomas": "topic_997b0166",
+    "sh kiran thomas": "topic_997b0166",
+    "kiran": "topic_997b0166",
+    "sh v srikanth": "topic_8029f1ca",
+    "v srikanth": "topic_8029f1ca",
+    "financial results": "topic_bd4f4367",
+    "financials": "topic_bd4f4367",
+    "unaudited financial results": "topic_bd4f4367",
+    "unaudited": "topic_bd4f4367",
+    "year growth": "topic_e2444358",
+    "on year growth": "topic_e2444358",
+    "year on year": "topic_e2444358",
+    "ajay": "topic_bd8b20ae",
+    "ajay jain": "topic_bd8b20ae",
+    "jain": "topic_bd8b20ae",
+    "media": "topic_775fab87",
+    "media and communication": "topic_775fab87",
+    "and media": "topic_775fab87",
+    "healthcare and media": "topic_775fab87",
+    "healthcare and": "topic_775fab87",
+    "healthcare": "topic_775fab87",
+    "cost": "topic_180949f1",
+    "expense": "topic_180949f1",
+    "high cost": "topic_180949f1",
+    "jio": "topic_f4c08f2f",
+    "the jio": "topic_f4c08f2f",
+    "jio infocomm": "topic_f4c08f2f",
+    "about jio": "topic_f4c08f2f",
+    "jio infocomm limited": "topic_f4c08f2f",
+    "talk about jio": "topic_f4c08f2f",
+    "reliance jio": "topic_f4c08f2f",
+    "infocomm": "topic_f4c08f2f",
+    "infocomm limited": "topic_f4c08f2f",
+    "reliance jio infocomm": "topic_f4c08f2f",
+    "mr shashank ganesh": "topic_fda88b90",
+    "shashank ganesh": "topic_fda88b90",
+    "shashank": "topic_fda88b90",
+    "new normal": "topic_6b875ce6",
+    "the new normal": "topic_6b875ce6",
+    "geographies": "topic_242feae9",
+    "geography": "topic_242feae9",
+    "anshuman thakur digital": "topic_8a9810f1",
+    "anshuman thakur": "topic_8a9810f1",
+    "thakur": "topic_8a9810f1",
+    "infrastructure": "topic_8d091e2e",
+    "and infrastructure": "topic_8d091e2e",
+    "manoj raghavan": "topic_bf2c3907",
+    "mr manoj raghavan": "topic_bf2c3907",
+    "raghavan": "topic_bf2c3907",
+    "raghavan managing director": "topic_bf2c3907",
+    "chief financial officer": "topic_6b22ee04",
+    "cfo": "topic_6b22ee04",
+    "current quarter": "topic_fa2ff7e0",
+    "the current quarter": "topic_fa2ff7e0",
+    "sh anshuman": "topic_a4229689",
+    "sh anshuman thakur": "topic_a4229689",
+    "sh sanjay": "topic_16ca9775",
+    "sanjay barman roy": "topic_16ca9775",
+    "sanjay barman": "topic_16ca9775",
+    "first quarter": "topic_7a63c109",
+    "the first quarter": "topic_7a63c109",
+    "expansion": "topic_60db9b8f",
+    "continue to expand": "topic_60db9b8f",
+    "prices": "topic_d2e410c1",
+    "price": "topic_d2e410c1",
+    "pricing": "topic_d2e410c1",
+    "stock exchange": "topic_3b6c1b4b",
+    "national stock exchange": "topic_3b6c1b4b",
+    "qualcomm": "topic_31d77e90",
+    "with qualcomm": "topic_31d77e90",
+    "gaurav bajaj": "topic_3eccef54",
+    "gaurav": "topic_3eccef54",
+    "saks": "topic_a597dc23",
+    "with saks": "topic_a597dc23",
+    "saks fifth avenue": "topic_a597dc23",
+    "fifth avenue": "topic_a597dc23",
+    "services": "topic_58ea6626",
+    "service provider": "topic_58ea6626",
+    "provider": "topic_58ea6626",
+    "exclusive service provider": "topic_58ea6626",
+    "exclusive service": "topic_58ea6626",
+    "industry": "topic_0a904e89",
+    "the industry": "topic_0a904e89",
+    "asia": "topic_ab3d0f7c",
+    "asia pacific": "topic_ab3d0f7c",
+    "apac market": "topic_ab3d0f7c",
+    "apac": "topic_ab3d0f7c",
+    "the apac market": "topic_ab3d0f7c",
+    "the apac": "topic_ab3d0f7c",
+    "pacific": "topic_ab3d0f7c",
+    "kurla": "topic_64c2d49f",
+    "kurla complex": "topic_64c2d49f",
+    "bandra kurla": "topic_64c2d49f",
+    "bandra kurla complex": "topic_64c2d49f",
+    "dalal": "topic_412360ef",
+    "dalal street": "topic_412360ef",
+    "european market": "topic_dbe23bbd",
+    "the european market": "topic_dbe23bbd",
+    "the european": "topic_dbe23bbd",
+    "europe": "topic_dbe23bbd",
+    "a steady performance": "topic_b49a3e1d",
+    "steady performance": "topic_b49a3e1d",
+    "o2c": "topic_fb09bb31",
+    "o2c business": "topic_fb09bb31",
+    "o2c performance": "topic_fb09bb31",
+    "o2c business summary": "topic_fb09bb31",
+    "srikanth o2c business": "topic_fb09bb31",
+    "srikanth o2c": "topic_fb09bb31",
+    "on o2c": "topic_fb09bb31",
+    "platforms": "topic_40e7899d",
+    "platform": "topic_40e7899d",
+    "offsets": "topic_ba26a936",
+    "offset": "topic_ba26a936",
+    "brands": "topic_d02df639",
+    "brand": "topic_d02df639",
+    "brands business": "topic_d02df639",
+    "the average": "topic_b2984f01",
+    "the average bill": "topic_b2984f01",
+    "our average bill": "topic_b2984f01",
+    "average bill": "topic_b2984f01",
+    "average bill values": "topic_b2984f01",
+    "bill values": "topic_b2984f01",
+    "summary and closure": "topic_55a837c1",
+    "summary": "topic_55a837c1",
+    "offerings": "topic_4a1d200d",
+    "the offerings": "topic_4a1d200d",
+    "offerings that": "topic_4a1d200d",
+    "offerings that we": "topic_4a1d200d",
+    "demand": "topic_d67775dc",
+    "demand for": "topic_d67775dc",
+    "the demand": "topic_d67775dc",
+    "demand coming": "topic_d67775dc",
+    "the demand for": "topic_d67775dc",
+    "overall demand": "topic_d67775dc",
+    "in demand": "topic_d67775dc",
+    "lot of demand": "topic_d67775dc",
+    "b2c": "topic_fcff1545",
+    "b2c business": "topic_fcff1545",
+    "in india": "topic_2f0f4d7d",
+    "india": "topic_2f0f4d7d",
+    "india is": "topic_2f0f4d7d",
+    "use cases": "topic_8626821c",
+    "multiple use cases": "topic_8626821c",
+    "multiple use": "topic_8626821c",
+    "sanjay": "topic_be16fc14",
+    "sanjay chawla": "topic_be16fc14",
+    "chawla": "topic_be16fc14",
+    "plaza": "topic_87546fab",
+    "exchange plaza": "topic_87546fab",
+    "towers": "topic_87546fab",
+    "towers exchange plaza": "topic_87546fab",
+    "phiroze": "topic_87546fab",
+    "phiroze jeejeebhoy": "topic_87546fab",
+    "phiroze jeejeebhoy towers": "topic_87546fab",
+    "jeejeebhoy": "topic_87546fab",
+    "jeejeebhoy towers": "topic_87546fab",
+    "jeejeebhoy towers exchange": "topic_87546fab",
+    "tie": "topic_83ff9332",
+    "tie up": "topic_83ff9332",
+    "closure": "topic_f8b19f81",
+    "closures": "topic_f8b19f81",
+    "large deals": "topic_f322a313",
+    "large deals and": "topic_f322a313",
+    "some large deals": "topic_f322a313",
+    "deal": "topic_f322a313",
+    "a deal": "topic_f322a313",
+    "winning deals": "topic_f322a313",
+    "deal wins": "topic_f322a313",
+    "the deals": "topic_f322a313",
+    "wins": "topic_f322a313",
+    "ramp ups": "topic_94ec44f9",
+    "ramp up": "topic_94ec44f9",
+    "software": "topic_96b9c1ab",
+    "and software": "topic_96b9c1ab",
+    "monetization of": "topic_70a51833",
+    "monetization": "topic_70a51833",
+    "the sdv": "topic_9aeeb3e5",
+    "sdv": "topic_9aeeb3e5",
+    "the sdv platform": "topic_9aeeb3e5",
+    "sdv platform": "topic_9aeeb3e5",
+    "bhavik mehta": "topic_724ed776",
+    "bhavik": "topic_724ed776",
+    "rs crores": "topic_aeb79178",
+    "crores": "topic_aeb79178",
+    "polyester": "topic_8f249441",
+    "polyester chain": "topic_8f249441",
+    "traction in": "topic_020cd67b",
+    "traction": "topic_020cd67b",
+    "strong traction": "topic_804831ee",
+    "very strong traction": "topic_804831ee",
+    "fuel": "topic_facc000e",
+    "domestic fuel": "topic_facc000e",
+    "transportation fuel": "topic_facc000e",
+    "accounts": "topic_f52283f5",
+    "account": "topic_f52283f5",
+    "the tax": "topic_33e39abf",
+    "the tax rate": "topic_33e39abf",
+    "tax": "topic_33e39abf",
+    "tax rate": "topic_33e39abf",
+    "income tax": "topic_33e39abf",
+    "the income tax": "topic_33e39abf",
+    "tax rate for": "topic_33e39abf",
+    "push": "topic_3922d8b3",
+    "push towards": "topic_3922d8b3",
+    "big push": "topic_3922d8b3",
+    "battery": "topic_9a16fb8c",
+    "battery passport": "topic_9a16fb8c",
+    "that space": "topic_079db80e",
+    "in that space": "topic_079db80e",
+    "avionics and defence": "topic_50360331",
+    "avionics and": "topic_50360331",
+    "avionics": "topic_50360331",
+    "projects": "topic_6a9ed08f",
+    "project": "topic_6a9ed08f",
+    "the projects": "topic_6a9ed08f",
+    "uavs": "topic_6c368321",
+    "drones": "topic_6c368321",
+    "disclosure": "topic_d0e3cba0",
+    "disclosure requirements": "topic_d0e3cba0",
+    "regulations": "topic_27daf5cf",
+    "regulation": "topic_27daf5cf",
+    "during the festival": "topic_afa4deb4",
+    "the festival season": "topic_afa4deb4",
+    "festival season": "topic_afa4deb4",
+    "festival": "topic_afa4deb4",
+    "festive season": "topic_afa4deb4",
+    "the festive season": "topic_afa4deb4",
+    "strong festive season": "topic_afa4deb4",
+    "the festival": "topic_afa4deb4",
+    "strong festive": "topic_afa4deb4",
+    "the festive demand": "topic_afa4deb4",
+    "festive demand": "topic_afa4deb4",
+    "festive demand that": "topic_afa4deb4",
+    "polymers": "topic_d87bad15",
+    "polymer": "topic_d87bad15",
+    "arpu": "topic_5a103a84",
+    "the arpu": "topic_5a103a84",
+    "commercial vehicles": "topic_2bb680a9",
+    "commercial vehicle": "topic_2bb680a9",
+    "the adjacencies": "topic_8ad6f60d",
+    "adjacencies": "topic_8ad6f60d",
+    "abhishek": "topic_af28f7ca",
+    "abhishek agarwal": "topic_af28f7ca",
+    "agarwal": "topic_af28f7ca",
+    "partnership": "topic_abfde4da",
+    "partnerships": "topic_abfde4da",
+    "our partnerships": "topic_abfde4da",
+    "efficiency": "topic_b3898560",
+    "productivity": "topic_b3898560",
+    "the productivity": "topic_b3898560",
+    "future": "topic_f31c3307",
+    "the future": "topic_f31c3307",
+    "into the future": "topic_f31c3307",
+    "verticals": "topic_55014850",
+    "the verticals": "topic_55014850",
+    "these verticals": "topic_55014850",
+    "both these verticals": "topic_55014850",
+    "vertical": "topic_55014850",
+    "transportation vertical": "topic_55014850",
+    "in transportation": "topic_55014850",
+    "transportation": "topic_55014850",
+    "our transportation": "topic_55014850",
+    "the transportation business": "topic_55014850",
+    "transportation business": "topic_55014850",
+    "transportation business for": "topic_55014850",
+    "the transportation": "topic_55014850",
+    "analysts": "topic_acfeb45b",
+    "the analysts": "topic_acfeb45b",
+    "technologies": "topic_d8e77aaa",
+    "technology": "topic_d8e77aaa",
+    "positions": "topic_47017d4f",
+    "the positions": "topic_47017d4f",
+    "sulabh": "topic_0032ee65",
+    "sulabh govila": "topic_0032ee65",
+    "tariff": "topic_4a745e5b",
+    "tariffs": "topic_4a745e5b",
+    "the tariff": "topic_4a745e5b",
+    "of the tariff": "topic_4a745e5b",
+    "the tariff hike": "topic_4a745e5b",
+    "tariff hike": "topic_4a745e5b",
+    "reason": "topic_12c35fb0",
+    "the reason": "topic_12c35fb0",
+    "the consumer": "topic_3a187817",
+    "consumer": "topic_3a187817",
+    "passenger car": "topic_dd3bec7b",
+    "the passenger car": "topic_dd3bec7b",
+    "passenger vehicles": "topic_dd3bec7b",
+    "the china market": "topic_ae32a1d6",
+    "china market": "topic_ae32a1d6",
+    "china market and": "topic_ae32a1d6",
+    "china": "topic_ae32a1d6",
+    "in china": "topic_ae32a1d6",
+    "the china": "topic_ae32a1d6",
+    "of china": "topic_ae32a1d6",
+    "collaborations": "topic_c1226427",
+    "collaboration": "topic_c1226427",
+    "budget": "topic_75eb6316",
+    "budgets": "topic_75eb6316",
+    "the budget": "topic_75eb6316",
+    "the budgets": "topic_75eb6316",
+    "digital revenues": "topic_8e192c0d",
+    "the digital revenues": "topic_8e192c0d",
+    "million subscribers": "topic_29fd4db7",
+    "subscribers": "topic_29fd4db7",
+    "subscriber": "topic_29fd4db7",
+    "in japan": "topic_b7a5e1d5",
+    "japan": "topic_b7a5e1d5",
+    "the japanese": "topic_b7a5e1d5",
+    "japanese": "topic_b7a5e1d5",
+    "japanese companies": "topic_b7a5e1d5",
+    "evs": "topic_431db318",
+    "the ev": "topic_431db318",
+    "acquired": "topic_db68a8cd",
+    "acquisition": "topic_db68a8cd",
+    "top thousand": "topic_08dd33bd",
+    "the top thousand": "topic_08dd33bd",
+    "the wedding": "topic_03bd6afe",
+    "wedding": "topic_03bd6afe",
+    "the wedding season": "topic_03bd6afe",
+    "wedding season": "topic_03bd6afe",
+    "festive and wedding": "topic_03bd6afe",
+    "in cbm": "topic_a0b40baa",
+    "cbm": "topic_a0b40baa",
+    "cubic meters and": "topic_afdb8876",
+    "cubic meters": "topic_afdb8876",
+    "standard cubic meters": "topic_afdb8876",
+    "cubic": "topic_afdb8876",
+    "sale": "topic_221c9480",
+    "sales": "topic_221c9480",
+    "operations": "topic_8a39d551",
+    "our operating": "topic_8a39d551",
+    "a slowdown": "topic_91c55e1e",
+    "slowdown": "topic_91c55e1e",
+    "next financial year": "topic_f21d0a75",
+    "financial year": "topic_f21d0a75",
+    "this financial year": "topic_f21d0a75",
+    "on jlr": "topic_4a0a8993",
+    "jlr": "topic_4a0a8993",
+    "japanese market": "topic_c849f60d",
+    "the japanese market": "topic_c849f60d",
+    "the third quarter": "topic_1334d061",
+    "third quarter": "topic_1334d061",
+    "third quarter of": "topic_1334d061",
+    "differentiator": "topic_9b78e9ef",
+    "differentiation": "topic_9b78e9ef",
+    "a differentiation": "topic_9b78e9ef",
+    "jiocloudpc": "topic_5087a416",
+    "cloud pc": "topic_5087a416",
+    "wage hike": "topic_28e66656",
+    "wage hikes": "topic_28e66656",
+    "the wage hike": "topic_28e66656",
+    "the wage hikes": "topic_28e66656",
+    "annualized": "topic_77c61dd5",
+    "per annum": "topic_77c61dd5",
+    "workforce": "topic_377dffaa",
+    "employees": "topic_377dffaa",
+    "employee": "topic_377dffaa",
+    "employee base": "topic_377dffaa",
+    "investments": "topic_01d1a005",
+    "investment": "topic_01d1a005",
+    "from kgd6": "topic_2c72109c",
+    "in kgd6": "topic_2c72109c",
+    "kgd6": "topic_2c72109c",
+    "high growth": "topic_41648312",
+    "strong growth": "topic_41648312",
+    "very strong growth": "topic_41648312",
+    "offering": "topic_bbc62161",
+    "a beta offering": "topic_bbc62161",
+    "beta offering": "topic_bbc62161",
+    "ramakrishnan": "topic_97cfdadc",
+    "shyam ramakrishnan": "topic_97cfdadc",
+    "this conference": "topic_fe940669",
+    "the conference": "topic_fe940669",
+    "previous quarter": "topic_6a8e39b8",
+    "the previous quarter": "topic_6a8e39b8",
+    "inr1": "topic_8dba98dd",
+    "inr1 crores": "topic_8dba98dd",
+    "the three buckets": "topic_08f0adaf",
+    "three buckets": "topic_08f0adaf",
+    "our top line": "topic_ed2d8cd1",
+    "top line": "topic_ed2d8cd1",
+    "cash": "topic_c8d14b8e",
+    "the cash": "topic_c8d14b8e",
+    "profit after tax": "topic_a366b1d4",
+    "profit after": "topic_a366b1d4",
+    "india network": "topic_f277ca6e",
+    "pan india network": "topic_f277ca6e",
+    "pan india": "topic_f277ca6e",
+    "the mothercare": "topic_e00d0284",
+    "mothercare": "topic_e00d0284",
+    "for pvc": "topic_74995055",
+    "pvc": "topic_74995055",
+    "investing": "topic_0f2f9b08",
+    "have been investing": "topic_0f2f9b08",
+    "invest": "topic_0f2f9b08",
+    "the government": "topic_c077bc02",
+    "government": "topic_c077bc02",
+    "differential": "topic_f18ffbe0",
+    "the differential": "topic_f18ffbe0",
+    "full year": "topic_89b305af",
+    "the full year": "topic_89b305af",
+    "priority": "topic_4c3a6184",
+    "the priority": "topic_4c3a6184",
+    "the jio airfiber": "topic_a8ba6f71",
+    "jio airfiber": "topic_a8ba6f71",
+    "airfiber": "topic_a8ba6f71",
+    "increasing run rate": "topic_ff68154e",
+    "run rate": "topic_ff68154e",
+    "deliveries": "topic_9efb29df",
+    "express deliveries": "topic_9efb29df",
+    "own brands": "topic_c57b853b",
+    "our own brands": "topic_c57b853b",
+    "opportunity": "topic_42733a7b",
+    "opportunities": "topic_42733a7b",
+    "chinese car": "topic_a591d397",
+    "the chinese car": "topic_a591d397",
+    "aerospace and": "topic_a98b0958",
+    "aerospace": "topic_a98b0958",
+    "the highest ever": "topic_b5397b91",
+    "highest ever sales": "topic_b5397b91",
+    "hikes": "topic_b412fb3a",
+    "hike": "topic_b412fb3a",
+    "ai cloud": "topic_ed40117e",
+    "jio ai cloud": "topic_ed40117e",
+    "super luxury": "topic_ec7e4e96",
+    "the super luxury": "topic_ec7e4e96",
+    "super luxury segment": "topic_ec7e4e96",
+    "luxury segment": "topic_ec7e4e96",
+    "last three": "topic_85ce1777",
+    "last three years": "topic_85ce1777",
+    "three years": "topic_85ce1777",
+    "the media and": "topic_bbcc4e57",
+    "the media": "topic_bbcc4e57",
+    "company level": "topic_8b7e502c",
+    "the company level": "topic_8b7e502c",
+    "scaling": "topic_5f8251ee",
+    "scale": "topic_5f8251ee",
+    "one question": "topic_e5cdf446",
+    "have one question": "topic_e5cdf446",
+    "new government": "topic_95665c5d",
+    "the new government": "topic_95665c5d",
+    "two quarters": "topic_0673fbbf",
+    "last two quarters": "topic_0673fbbf",
+    "kanchi shah": "topic_89eb1e50",
+    "shah": "topic_89eb1e50"
+  },
+  "root_topics": [
+    "topic_6a8942cc",
+    "topic_34a3f09c",
+    "topic_d763b27c",
+    "topic_dca422d6",
+    "topic_c014c4e9",
+    "topic_85a9c17a",
+    "topic_bb71e4c7",
+    "topic_6c757466",
+    "topic_ab4b675f",
+    "topic_0fa7edbd",
+    "topic_f87953b5",
+    "topic_84ad0295",
+    "topic_96deed72",
+    "topic_9d8f4d43",
+    "topic_8c0bf6b1",
+    "topic_e68092c8",
+    "topic_628996ca",
+    "topic_a1068786",
+    "topic_1a4fd29d",
+    "topic_c4fec5f8",
+    "topic_92e1cf58",
+    "topic_955d9d98",
+    "topic_96e634f7",
+    "topic_170d8d3b",
+    "topic_31b99c9b",
+    "topic_0f84ed1e",
+    "topic_ff1f8a7e",
+    "topic_de9ab729",
+    "topic_33ca0d3e",
+    "topic_83a4f12a",
+    "topic_20a79665",
+    "topic_4992e417",
+    "topic_6a74e636",
+    "topic_476f4c70",
+    "topic_997b0166",
+    "topic_8029f1ca",
+    "topic_bd4f4367",
+    "topic_e2444358",
+    "topic_bd8b20ae",
+    "topic_775fab87",
+    "topic_180949f1",
+    "topic_f4c08f2f",
+    "topic_fda88b90",
+    "topic_6b875ce6",
+    "topic_242feae9",
+    "topic_8a9810f1",
+    "topic_8d091e2e",
+    "topic_bf2c3907",
+    "topic_6b22ee04",
+    "topic_fa2ff7e0",
+    "topic_a4229689",
+    "topic_16ca9775",
+    "topic_7a63c109",
+    "topic_60db9b8f",
+    "topic_d2e410c1",
+    "topic_3b6c1b4b",
+    "topic_31d77e90",
+    "topic_3eccef54",
+    "topic_a597dc23",
+    "topic_58ea6626",
+    "topic_0a904e89",
+    "topic_ab3d0f7c",
+    "topic_64c2d49f",
+    "topic_412360ef",
+    "topic_dbe23bbd",
+    "topic_b49a3e1d",
+    "topic_fb09bb31",
+    "topic_40e7899d",
+    "topic_ba26a936",
+    "topic_d02df639",
+    "topic_b2984f01",
+    "topic_55a837c1",
+    "topic_4a1d200d",
+    "topic_d67775dc",
+    "topic_fcff1545",
+    "topic_2f0f4d7d",
+    "topic_8626821c",
+    "topic_be16fc14",
+    "topic_87546fab",
+    "topic_83ff9332",
+    "topic_f8b19f81",
+    "topic_f322a313",
+    "topic_94ec44f9",
+    "topic_96b9c1ab",
+    "topic_70a51833",
+    "topic_9aeeb3e5",
+    "topic_724ed776",
+    "topic_aeb79178",
+    "topic_8f249441",
+    "topic_020cd67b",
+    "topic_804831ee",
+    "topic_facc000e",
+    "topic_f52283f5",
+    "topic_33e39abf",
+    "topic_3922d8b3",
+    "topic_9a16fb8c",
+    "topic_079db80e",
+    "topic_50360331",
+    "topic_6a9ed08f",
+    "topic_6c368321",
+    "topic_d0e3cba0",
+    "topic_27daf5cf",
+    "topic_afa4deb4",
+    "topic_d87bad15",
+    "topic_5a103a84",
+    "topic_2bb680a9",
+    "topic_8ad6f60d",
+    "topic_af28f7ca",
+    "topic_abfde4da",
+    "topic_b3898560",
+    "topic_f31c3307",
+    "topic_55014850",
+    "topic_acfeb45b",
+    "topic_d8e77aaa",
+    "topic_47017d4f",
+    "topic_0032ee65",
+    "topic_4a745e5b",
+    "topic_12c35fb0",
+    "topic_3a187817",
+    "topic_dd3bec7b",
+    "topic_ae32a1d6",
+    "topic_c1226427",
+    "topic_75eb6316",
+    "topic_8e192c0d",
+    "topic_29fd4db7",
+    "topic_b7a5e1d5",
+    "topic_431db318",
+    "topic_db68a8cd",
+    "topic_08dd33bd",
+    "topic_03bd6afe",
+    "topic_a0b40baa",
+    "topic_afdb8876",
+    "topic_221c9480",
+    "topic_8a39d551",
+    "topic_91c55e1e",
+    "topic_f21d0a75",
+    "topic_4a0a8993",
+    "topic_c849f60d",
+    "topic_1334d061",
+    "topic_9b78e9ef",
+    "topic_5087a416",
+    "topic_28e66656",
+    "topic_77c61dd5",
+    "topic_377dffaa",
+    "topic_01d1a005",
+    "topic_2c72109c",
+    "topic_41648312",
+    "topic_bbc62161",
+    "topic_97cfdadc",
+    "topic_fe940669",
+    "topic_6a8e39b8",
+    "topic_8dba98dd",
+    "topic_08f0adaf",
+    "topic_ed2d8cd1",
+    "topic_c8d14b8e",
+    "topic_a366b1d4",
+    "topic_f277ca6e",
+    "topic_e00d0284",
+    "topic_74995055",
+    "topic_0f2f9b08",
+    "topic_c077bc02",
+    "topic_f18ffbe0",
+    "topic_89b305af",
+    "topic_4c3a6184",
+    "topic_a8ba6f71",
+    "topic_ff68154e",
+    "topic_9efb29df",
+    "topic_c57b853b",
+    "topic_42733a7b",
+    "topic_a591d397",
+    "topic_a98b0958",
+    "topic_b5397b91",
+    "topic_b412fb3a",
+    "topic_ed40117e",
+    "topic_ec7e4e96",
+    "topic_85ce1777",
+    "topic_bbcc4e57",
+    "topic_8b7e502c",
+    "topic_5f8251ee",
+    "topic_e5cdf446",
+    "topic_95665c5d",
+    "topic_0673fbbf",
+    "topic_89eb1e50"
+  ],
+  "created_at": "2026-01-17T18:37:02.532959",
   "source_stats": {
-    "total_documents": 1642,
-    "total_tokens": 21091,
-    "unique_unigrams": 2489,
-    "unique_bigrams": 10278,
-    "unique_trigrams": 14359,
-    "terms_extracted": 4528,
-    "valid_entities": 6,
-    "topics_created": 0
+    "total_documents": 1376,
+    "total_tokens": 18540,
+    "unique_unigrams": 2275,
+    "unique_bigrams": 9262,
+    "unique_trigrams": 12881,
+    "terms_extracted": 3941,
+    "valid_entities": 1060,
+    "topics_created": 183
   }
 }
