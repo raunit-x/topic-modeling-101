@@ -1,5 +1,3 @@
-# CIMBA AI
-
 A production-ready toolkit for semantic analysis, including **statement clustering** and **topic taxonomy extraction**. Both modules leverage embeddings and LLMs to deliver high-quality results with built-in quality assurance.
 
 ## Features
