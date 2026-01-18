@@ -1,9 +1,10 @@
-A production-ready toolkit for semantic analysis, including **statement clustering** and **topic taxonomy extraction**. Both modules leverage embeddings and LLMs to deliver high-quality results with built-in quality assurance.
+A production-ready toolkit for semantic analysis, including **semantic similarity**, **statement clustering**, and **topic taxonomy extraction**. All modules leverage embeddings and LLMs to deliver high-quality results with built-in quality assurance.
 
 ## Features
 
 | Module | Description |
 |--------|-------------|
+| **Semantic Similarity** | Human-like similarity scoring between text pairs (e.g., "how many customers" ≈ "customer count" = 0.72) |
 | **Semantic Clustering** | Groups statements with the same meaning (e.g., "how many customers" = "customer count") |
 | **Topic Taxonomy** | Extracts and organizes entities from text into a hierarchical taxonomy |
 
@@ -26,6 +27,117 @@ Or add it to a `.env` file:
 ```
 OPENAI_API_KEY=your-api-key
 ```
+
+---
+
+# Semantic Similarity
+
+Computes human-like similarity scores between text pairs. Unlike raw embedding cosine similarity (which clusters in 0.6-0.95 range), this module produces **polarized scores** that match human intuition.
+
+## Quick Start
+
+```python
+import asyncio
+from cimba import semantic_similarity
+
+async def main():
+    # Same meaning → high score
+    score1 = await semantic_similarity(
+        "How many customers do I have",
+        "My customer count"
+    )
+    print(f"Same meaning: {score1:.2f}")  # ~0.72
+    
+    # Different meaning (despite similar syntax) → low score
+    score2 = await semantic_similarity(
+        "How many customers do I have",
+        "How many products do I have"
+    )
+    print(f"Different meaning: {score2:.2f}")  # ~0.28
+
+asyncio.run(main())
+```
+
+## How It Works
+
+The module combines three complementary signals:
+
+| Signal | Weight | Description |
+|--------|--------|-------------|
+| **Semantic** | 85% | OpenAI embedding cosine similarity |
+| **Syntactic** | 10% | Token Jaccard overlap (catches exact matches) |
+| **Topic** | 5% | Taxonomy-based topic matching (optional) |
+
+The blended score is then passed through a **calibrated sigmoid** to produce polarized outputs.
+
+## With Taxonomy (Optional)
+
+If you have a pre-built taxonomy, pass it for enhanced topic-aware matching:
+
+```python
+from cimba.ner.schemas import Taxonomy
+
+# Load your taxonomy
+taxonomy = Taxonomy.model_validate_json(Path("taxonomy.json").read_text())
+
+score = await semantic_similarity(
+    "customer information",
+    "client details",
+    taxonomy=taxonomy,
+)
+```
+
+## Batch Processing
+
+For comparing many pairs efficiently:
+
+```python
+from cimba import semantic_similarity_batch
+
+pairs = [
+    ("hello world", "hi there"),
+    ("machine learning", "deep learning"),
+    ("apple fruit", "orange fruit"),
+]
+
+scores = await semantic_similarity_batch(pairs)
+# [0.65, 0.78, 0.82]
+```
+
+## Configuration
+
+| Parameter | Default | Description |
+|-----------|---------|-------------|
+| `weight_semantic` | 0.85 | Weight for embedding-based similarity |
+| `weight_syntactic` | 0.10 | Weight for token overlap |
+| `weight_topic` | 0.05 | Weight for taxonomy topic matching |
+| `calibration_midpoint` | 0.65 | Sigmoid center point |
+| `calibration_steepness` | 15.0 | Sigmoid steepness (higher = more polarized) |
+
+### Custom Weights Example
+
+```python
+score = await semantic_similarity(
+    text_a,
+    text_b,
+    weight_semantic=0.7,
+    weight_syntactic=0.2,
+    weight_topic=0.1,
+    calibration_midpoint=0.6,
+    calibration_steepness=12.0,
+)
+```
+
+## Trade-offs vs Production-Grade Solution
+
+This implementation uses heuristic weights and sigmoid calibration—no training required. For production with labeled data, consider:
+
+| This Implementation | Production Alternative |
+|---------------------|------------------------|
+| Heuristic weights (0.85/0.10/0.05) | Learned weights from labeled data |
+| Sigmoid calibration | Fine-tuned classification head (MLP) |
+| Simple tokenization | BM25 or learned sparse representations |
+| ~50ms latency | ColBERT/cross-encoder for higher quality |
 
 ---
 
@@ -148,13 +260,16 @@ Canaries are known truth pairs injected into LLM requests to validate model beha
 ## Module Structure
 
 ```
-src/cimba/clustering/
-├── __init__.py          # Public API exports
-├── schemas.py           # Pydantic models
-├── index.py             # EmbeddingIndex - FAISS wrapper
-├── llm_layers.py        # LLM functions for similarity/verification
-├── sanity_checker.py    # Canary injection and validation
-└── clusterer.py         # Main SemanticClusterer class
+src/cimba/
+├── similarity.py        # Semantic similarity scoring
+├── embeddings.py        # OpenAI embeddings
+└── clustering/
+    ├── __init__.py      # Public API exports
+    ├── schemas.py       # Pydantic models
+    ├── index.py         # EmbeddingIndex - FAISS wrapper
+    ├── llm_layers.py    # LLM functions for similarity/verification
+    ├── sanity_checker.py # Canary injection and validation
+    └── clusterer.py     # Main SemanticClusterer class
 ```
 
 ---
@@ -359,6 +474,9 @@ src/cimba/ner/
 ```bash
 # Run all unit tests (no API key required)
 uv run pytest tests/ -v -m "not integration"
+
+# Run similarity tests
+uv run pytest tests/test_similarity.py -v -m "not integration"
 
 # Run clustering tests
 uv run pytest tests/test_clustering.py -v -m "not integration"
