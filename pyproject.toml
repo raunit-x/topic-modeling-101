@@ -12,6 +12,7 @@ dependencies = [
     "faiss-cpu>=1.7.0",
     "numpy>=1.24.0",
     "tqdm>=4.65.0",
+    "rapidfuzz>=3.0.0",
 ]
 
 [project.optional-dependencies]

@@ -24,6 +24,7 @@ See: LightweightReranker pattern with learned feature weights.
 import math
 import re
 from typing import TYPE_CHECKING
+from rapidfuzz import fuzz
 
 from .embeddings import cosine_similarity, get_embedding, get_embeddings_batch
 
@@ -140,9 +141,7 @@ def normalize_tokens(text: str) -> list[str]:
 
 def syntactic_similarity(text_a: str, text_b: str) -> float:
     """
-    Compute lexical overlap using token Jaccard similarity.
-
-    Measures what fraction of content words are shared between texts.
+    Compute lexical overlap using token partial ratio.
     Useful for catching exact or near-exact matches that embeddings might miss.
 
     Args:
@@ -159,13 +158,7 @@ def syntactic_similarity(text_a: str, text_b: str) -> float:
     tokens_a = set(normalize_tokens(text_a))
     tokens_b = set(normalize_tokens(text_b))
     
-    if not tokens_a or not tokens_b:
-        return 0.0
-    
-    intersection = tokens_a & tokens_b
-    union = tokens_a | tokens_b
-    
-    return len(intersection) / len(union)
+    return fuzz.partial_ratio(" ".join(tokens_a), " ".join(tokens_b)) / 100
 
 
 def extract_topics_from_text(text: str, taxonomy: "Taxonomy") -> set[str]:
@@ -300,7 +293,10 @@ async def semantic_similarity(
     embeddings = await get_embeddings_batch([text_a, text_b])
     emb_a, emb_b = embeddings[0], embeddings[1]
     raw_semantic = cosine_similarity(emb_a, emb_b)
-    
+    if raw_semantic <= 0.65: # openai embeddings typically score 0.7+ for very similar texts
+        raw_semantic *= 0.8
+    else:
+        raw_semantic *= 1.2
     # Compute syntactic similarity (token overlap)
     raw_syntactic = syntactic_similarity(text_a, text_b)
     
